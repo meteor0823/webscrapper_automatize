@@ -24,7 +24,7 @@ jobs:
 
       - name: Run spider
         run: |
-          python your_spider.py
+          python adzuna.py
 
       - name: Commit new files
         run: |
