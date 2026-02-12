@@ -89,11 +89,11 @@ if __name__ == "__main__":
     today = datetime.now().strftime("%Y%m%d")
 
     # 基础路径
-    base_path = "/Users/beneductxu/Desktop/AllDocument/PhD_Course/TA/Development_TA"
+    # base_path = "/Users/beneductxu/Desktop/AllDocument/PhD_Course/TA/Development_TA"
 
     # 构建完整文件路径
-    json_file = f"{base_path}/{today}.json"
-    csv_file = f"{base_path}/{today}.csv"
+    json_file = f"{today}.json"
+    csv_file = f"{today}.csv"
 
     # ====== 保存 JSON ======
     with open(json_file, 'w', encoding='utf-8') as f:
