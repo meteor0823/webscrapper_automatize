@@ -26,7 +26,7 @@ def fetch_all_jobs():
             "app_id": APP_ID,
             "app_key": APP_KEY,
             "results_per_page":100,
-            "sort_by:date",
+            "sort_by":"date",
             # "what": "economist",  # 如需搜索特定关键词可取消注释
             "content-type": "application/json"
         }
