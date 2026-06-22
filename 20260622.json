@@ -1,0 +1,1667 @@
+[
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703319?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=7D2E8D366E3349829B3132FAB2EA1793083DEAC6",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMzE5In0.6S12GNX1BAMWBoJnJstF2EgveZxjly8WpTvZZ1gPJKs",
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "salary_max": 81469.38,
+    "id": "5772703319",
+    "longitude": -96.4121,
+    "salary_min": 81469.38,
+    "latitude": 42.465951,
+    "location": {
+      "area": [
+        "US",
+        "Nebraska",
+        "Dakota County",
+        "South Sioux City"
+      ],
+      "display_name": "South Sioux City, Dakota County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "part_time",
+    "created": "2026-06-22T13:41:16Z",
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "retail-jobs",
+      "label": "Retail Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Dashers - Sign Up and Start Earning",
+    "salary_is_predicted": "1"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703317?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=D5288AA8DDCEDCA14FB655531A9486B20453A3E5",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzMxNyIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.yLs1RS8SaEAVU9XZKUB6_A6zRXnczkqmPLNMyvvA8-Y",
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "salary_max": 63722.87,
+    "id": "5772703317",
+    "longitude": -84.264752,
+    "salary_min": 63722.87,
+    "latitude": 30.430969,
+    "location": {
+      "area": [
+        "US",
+        "Florida",
+        "Leon County",
+        "Tallahassee"
+      ],
+      "display_name": "Tallahassee, Leon County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_time": "part_time",
+    "created": "2026-06-22T13:41:09Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "DoorDash"
+    },
+    "category": {
+      "label": "Retail Jobs",
+      "tag": "retail-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Delivery Driver - Earn Extra Cash",
+    "salary_is_predicted": "1"
+  },
+  {
+    "salary_min": 0,
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Outpatient Physical Therapy Assistant - Paying up to $1,592/week",
+    "longitude": -110.918927,
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5772703311",
+    "salary_max": 82784,
+    "company": {
+      "display_name": "Vivian Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-22T13:41:03Z",
+    "description": "Vivian is looking for Travel Physical Therapy Assistant Therapys in Tucson, Arizona paying up to $1,592/week At Vivian, we ensure your next step is a step forward. That's why we built a jobs marketplace that serves healthcare professionals first. It's easy to get started: Create a profile - Build your reputation with a universal profile that works across hundreds of different healthcare employers. Explore your options - Select your preferences (shift details, salary, location, etc.) and discove…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMzExIn0._mjD0YybIpk2AV-4QaEDD_jYiUafsLXhHHbbxwerTuc",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703311?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=8FF902C377F68724C9F4878E192EE34B6E052A7F",
+    "location": {
+      "display_name": "Little Tucson, Pima County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Arizona",
+        "Pima County",
+        "Little Tucson"
+      ]
+    },
+    "latitude": 32.312638
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703308?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=BB0DC0B81CC7A59ADD8919368DE6B0195007DB65",
+    "latitude": 60.79597,
+    "location": {
+      "area": [
+        "US",
+        "Alaska",
+        "Bethel",
+        "Kongiganak"
+      ],
+      "display_name": "Kongiganak, Bethel",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMzA4In0.XbUN7z3uEwzlU7xpONh-pXqIw3i1iQHm3NJnmFwfxNg",
+    "created": "2026-06-22T13:40:59Z",
+    "description": "Supplemental Health Care is seeking a travel CT Technologist for a travel job in Bethel, Alaska. Job Description & Requirements Specialty: CT Technologist Discipline: Allied Health Professional Start Date: ASAP Duration: 13 weeks 40 hours per week Shift: 8 hours, days, nights Employment Type: Travel Job Description: Supplemental Health Care is hiring CT Technologists for contract opportunities at a partnering Hospital in Bethel, Alaska. Join a leading healthcare team and put your imaging skills…",
+    "id": "5772703308",
+    "salary_max": 129480,
+    "company": {
+      "display_name": "Supplemental Health Care",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel CT Technologist - $2,490 per week",
+    "longitude": -161.78975,
+    "salary_min": 0,
+    "salary_is_predicted": "0"
+  },
+  {
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Assured Nursing"
+    },
+    "salary_max": 118092,
+    "id": "5772703307",
+    "salary_min": 0,
+    "salary_is_predicted": "0",
+    "longitude": -81.68264,
+    "title": "Travel Observation Telemetry RN - $2,271 per week",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMzA3In0.c7Pcujc3jDAkRHn5OgzJhfQ-7mmWPNVASjNQYqhChqA",
+    "location": {
+      "display_name": "South Charleston, Kanawha County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "West Virginia",
+        "Kanawha County",
+        "South Charleston"
+      ]
+    },
+    "latitude": 38.35933,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703307?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=D05C28A9862CDC3868B0C901BC753557AEDC8DF1",
+    "description": "Assured Nursing is seeking a travel nurse RN Med Surg / Telemetry for a travel nursing job in South Charleston, West Virginia. Job Description & Requirements Specialty: Med Surg / Telemetry Discipline: RN Start Date: ASAP Duration: 13 weeks 36 hours per week Shift: 12 hours, nights Employment Type: Travel Assured Nursing Job ID 37275992. Pay package is based on 12 hour shifts and 36.0 hours per week (subject to confirmation) with tax-free stipend amount to be determined. Posted job title: RN:Te…",
+    "created": "2026-06-22T13:40:56Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMzA1In0.Jt_Nq7d0yrAHrkJsotA3wsc9CuGTU1-K6BzACnP0Rv8",
+    "latitude": 37.775075,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hardinsburg, Breckinridge County",
+      "area": [
+        "US",
+        "Kentucky",
+        "Breckinridge County",
+        "Hardinsburg"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703305?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=3A5AA9562ED467D219843E38F1BFB1C5AC3B771D",
+    "description": "Supplemental Health Care is seeking a travel Home Health Physical Therapist for a travel job in Hardinsburg, Kentucky. Job Description & Requirements Specialty: Physical Therapist Discipline: Therapy Start Date: ASAP Duration: 13 weeks 40 hours per week Shift: 8 hours Employment Type: Travel Job Description: Supplemental Health Care is hiring Home Health Physical Therapists (PTs) to provide compassionate, patient-centered care in Hardinsburg, Kentucky and the surrounding areas. With 40 years of…",
+    "created": "2026-06-22T13:40:54Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "salary_max": 119912,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Supplemental Health Care"
+    },
+    "id": "5772703305",
+    "salary_min": 0,
+    "salary_is_predicted": "0",
+    "longitude": -86.479154,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Home Health Physical Therapist - $2,306 per week"
+  },
+  {
+    "created": "2026-06-22T13:40:46Z",
+    "contract_time": "part_time",
+    "location": {
+      "area": [
+        "US",
+        "Florida",
+        "Polk County",
+        "Lakeland"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Lakeland, Polk County"
+    },
+    "latitude": 28.048611,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Restaurant Delivery - Sign Up and Start Earning",
+    "category": {
+      "tag": "retail-jobs",
+      "label": "Retail Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "DoorDash"
+    },
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzMwMiIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.Kc0ObBzfN69w4DnDi8qoeIpP6EK6MEOh4FB6ycuhszY",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703302?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=89DEB3E24CC18194898407E68E2224604B0C55C2",
+    "salary_min": 83289.84,
+    "longitude": -81.898908,
+    "id": "5772703302",
+    "salary_max": 83289.84
+  },
+  {
+    "location": {
+      "area": [
+        "US",
+        "Tennessee",
+        "Knox County",
+        "Knoxville"
+      ],
+      "display_name": "Knoxville, Knox County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 35.960508,
+    "created": "2026-06-22T13:39:22Z",
+    "contract_time": "part_time",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Retail Jobs",
+      "tag": "retail-jobs"
+    },
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Delivery Driver - No Experience Needed",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMjM4In0.qfaARcu8IEA3WhIqeS-YI1xU2XDMYn1AbEmtIQlqAZQ",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703238?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=4B04EFBF25B6A030E5CD2C89438A60F52B9F547D",
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "salary_max": 60151.09,
+    "id": "5772703238",
+    "salary_min": 60151.09,
+    "longitude": -83.919508
+  },
+  {
+    "salary_is_predicted": "1",
+    "title": "Delivery Driver - No Experience Needed",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "Retail Jobs",
+      "tag": "retail-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-22T13:39:21Z",
+    "contract_time": "part_time",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bel Air, Harford County",
+      "area": [
+        "US",
+        "Maryland",
+        "Harford County",
+        "Bel Air"
+      ]
+    },
+    "latitude": 39.535941,
+    "salary_min": 60965.45,
+    "longitude": -76.348293,
+    "salary_max": 60965.45,
+    "id": "5772703236",
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMjM2In0.VVvNOSKHDf_JknPNFgKqOkxFUS_Awj-KYMRm-p7G8p8",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703236?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=82F3C3E2DFD15F21CC2D423EECF8CBBA59376330"
+  },
+  {
+    "created": "2026-06-22T13:39:21Z",
+    "contract_time": "part_time",
+    "latitude": 39.296337,
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Baltimore County",
+        "Baltimore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Baltimore, Baltimore County"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Delivery Driver - No Experience Needed",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "retail-jobs",
+      "label": "Retail Jobs"
+    },
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzIzNCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.aQa8UqUcc3xEtLHdBgW3ZGuG0l03odLa4ak6Ktct0Bs",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703234?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=AF96ED06BA825DA1246E8D51FA31177FF8EEDC9E",
+    "salary_min": 60329.64,
+    "longitude": -76.621054,
+    "salary_max": 60329.64,
+    "id": "5772703234"
+  },
+  {
+    "longitude": -76.571075,
+    "salary_min": 84487.62,
+    "id": "5772703227",
+    "salary_max": 84487.62,
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703227?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=76D8C73DCBAE575B91F4FE0DBAD7E733ED903138",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMjI3In0.6TxgkQbVpfog7TGKm9RbM2wqAlgVZm2uEezc_gEITFo",
+    "title": "Delivery Driver - Sign Up and Start Earning",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "Retail Jobs",
+      "tag": "retail-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "contract_time": "part_time",
+    "created": "2026-06-22T13:39:20Z",
+    "latitude": 39.107332,
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Anne Arundel County",
+        "Pasadena"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pasadena, Anne Arundel County"
+    }
+  },
+  {
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703218?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=53323471F3CE67050E445FAA83E745F18637C27D",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMjE4In0.lH1FypPoyZPANo1LQZlaMTfl-gmHkCagl3er74G91Ks",
+    "longitude": -76.658577,
+    "salary_min": 63840.14,
+    "salary_max": 63840.14,
+    "id": "5772703218",
+    "contract_time": "part_time",
+    "created": "2026-06-22T13:39:16Z",
+    "latitude": 39.644112,
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Baltimore County",
+        "Parkton"
+      ],
+      "display_name": "Parkton, Baltimore County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Delivery Driver",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "DoorDash"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Retail Jobs",
+      "tag": "retail-jobs"
+    }
+  },
+  {
+    "id": "5772703201",
+    "salary_max": 79382.55,
+    "longitude": -76.348293,
+    "salary_min": 79382.55,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703201?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=E89E77D1DCA5BFADF4226CC40B97E1E138BA8D64",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMjAxIn0.gNvhUiT5KDwnqI1mx63RZFX1NpVs6SJsmkhSxb3nhVY",
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "retail-jobs",
+      "label": "Retail Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Restaurant Delivery - Sign Up and Start Earning",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Bel Air, Harford County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Maryland",
+        "Harford County",
+        "Bel Air"
+      ]
+    },
+    "latitude": 39.535941,
+    "contract_time": "part_time",
+    "created": "2026-06-22T13:39:13Z"
+  },
+  {
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzIwMCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.edSEOkJewDeS4voAnckycQ_UTLU1Y7B-vH30Is9rOK8",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703200?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=3B0FBDD293D425CC165BF64BC61D03487CCE2830",
+    "salary_min": 78554.52,
+    "longitude": -76.621054,
+    "id": "5772703200",
+    "salary_max": 78554.52,
+    "created": "2026-06-22T13:39:13Z",
+    "contract_time": "part_time",
+    "latitude": 39.296337,
+    "location": {
+      "display_name": "Baltimore, Baltimore County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Maryland",
+        "Baltimore County",
+        "Baltimore"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "title": "Restaurant Delivery - Sign Up and Start Earning",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "retail-jobs",
+      "label": "Retail Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTkxIn0.ScXD5Mtv9qB084iTH8k1ybedcKBSJFJ8vFgh0SXaHx0",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703191?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=06424377A2BC45A801965E305AA3A87971BCD841",
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "salary_max": 60443.15,
+    "id": "5772703191",
+    "salary_min": 60443.15,
+    "longitude": -76.348293,
+    "latitude": 39.535941,
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Harford County",
+        "Bel Air"
+      ],
+      "display_name": "Bel Air, Harford County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-06-22T13:39:11Z",
+    "contract_time": "part_time",
+    "category": {
+      "tag": "retail-jobs",
+      "label": "Retail Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Restaurant Delivery"
+  },
+  {
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTg5In0.XdDBxRdwXrNAmdL7SNpE0-FvnhNADvbyCcUfKdwp9kQ",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703189?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=0AEA96F065C9A1ECCE0E8DEC4EC125FD0709336B",
+    "salary_min": 59812.68,
+    "longitude": -76.621054,
+    "salary_max": 59812.68,
+    "id": "5772703189",
+    "created": "2026-06-22T13:39:11Z",
+    "contract_time": "part_time",
+    "latitude": 39.296337,
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Baltimore County",
+        "Baltimore"
+      ],
+      "display_name": "Baltimore, Baltimore County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Restaurant Delivery",
+    "category": {
+      "tag": "retail-jobs",
+      "label": "Retail Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "salary_min": 51007.47,
+    "longitude": -76.621054,
+    "id": "5772703180",
+    "salary_max": 51007.47,
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzE4MCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.gtgUW4Gq48V9RmDbnnjRYK7X8frEB8rak0vJO_ASMok",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703180?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=79D8C6A36E31C3AC7F8A1EBA941019D6D83C99C4",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Drive with DoorDash",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Retail Jobs",
+      "tag": "retail-jobs"
+    },
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-22T13:39:09Z",
+    "contract_time": "part_time",
+    "latitude": 39.296337,
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Baltimore County",
+        "Baltimore"
+      ],
+      "display_name": "Baltimore, Baltimore County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "id": "5772703178",
+    "salary_max": 51007.47,
+    "longitude": -76.621054,
+    "salary_min": 51007.47,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703178?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=AE99FF6A1C67FC2D598759764F9921F137B35A2A",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzE3OCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.AMT4dSQgZbvfSYMvrCKYIrUMMOzz-p3yhW9d2wPX6qA",
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "DoorDash"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "retail-jobs",
+      "label": "Retail Jobs"
+    },
+    "title": "Drive with DoorDash",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Baltimore County",
+        "Baltimore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Baltimore, Baltimore County"
+    },
+    "latitude": 39.296337,
+    "contract_time": "part_time",
+    "created": "2026-06-22T13:39:09Z"
+  },
+  {
+    "category": {
+      "label": "Retail Jobs",
+      "tag": "retail-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "DoorDash"
+    },
+    "salary_is_predicted": "1",
+    "title": "Drive with Doordash - No CDL license needed",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bowie, Prince George's County",
+      "area": [
+        "US",
+        "Maryland",
+        "Prince George's County",
+        "Bowie"
+      ]
+    },
+    "latitude": 38.986055,
+    "created": "2026-06-22T13:39:06Z",
+    "contract_time": "part_time",
+    "salary_max": 64957.57,
+    "id": "5772703172",
+    "salary_min": 64957.57,
+    "longitude": -76.745195,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTcyIn0.9_LjwDwwD_4IX3JFsW8AT1iHdmrjaV67oqPOlFzaHwo",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703172?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=6B22CDC8B1A0FAC2FD889BE565067E5AA98941EC",
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703157?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=D8DAE317C3FC4CEA1512A11FD80CD841A3437F7A",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTU3In0.CedxwJw4qr3w0cjLg9eoP6LIgdl9l7qCMeN1eKwVwUs",
+    "description": "*Why Deliver with DoorDash?* DoorDash is the 1 category leader in food delivery, food pickup, and convenience store delivery in the US, trusted by millions of customers every day. As a Dasher, you’ll stay busy with a variety of earnings opportunities and can work when it works for you. Being a Dasher with DoorDash gives you the flexibility to earn extra cash on your terms. * *Multiple ways to earn:*Whether you’re delivering meals, groceries, or retail orders, DoorDash offers diverse earning opp…",
+    "id": "5772703157",
+    "salary_max": 59311.96,
+    "longitude": -81.036821,
+    "salary_min": 59311.96,
+    "latitude": 33.987339,
+    "location": {
+      "display_name": "Columbia, Richland County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "South Carolina",
+        "Richland County",
+        "Columbia"
+      ]
+    },
+    "contract_time": "part_time",
+    "created": "2026-06-22T13:38:59Z",
+    "company": {
+      "display_name": "DoorDash",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "retail-jobs",
+      "label": "Retail Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Delivery Driver - No Experience Needed",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1"
+  },
+  {
+    "id": "5772703151",
+    "salary_max": 99874.64,
+    "company": {
+      "display_name": "Aequor Healthcare",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "title": "Travel Surgical Acute Telemetry RN",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -112.07,
+    "salary_min": 99874.64,
+    "salary_is_predicted": "1",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703151?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=F0C682FAD056A06352504963BEADE45A7E73F7C5",
+    "location": {
+      "area": [
+        "US",
+        "Arizona",
+        "Maricopa County",
+        "Phoenix"
+      ],
+      "display_name": "Phoenix, Maricopa County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 33.45,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTUxIn0.g0ZhiF6tDNHzJEFMFJEQer_nv2QBJv24ut50X3XumkA",
+    "description": "Job Description Aequor Healthcare is seeking a travel nurse RN Med Surg / Telemetry for a travel nursing job in Phoenix, Arizona. Job Description & Requirements Specialty: Med Surg / Telemetry Discipline: RN Start Date: 07/06/2026 Duration: 13 weeks 36 hours per week Shift: 12 hours Employment Type: Travel All positions require at least two proven years experience Aequor Job ID 1781161. Pay package is based on 12 hour shifts and 36 hours per week (subject to confirmation) with tax-free stipend …",
+    "created": "2026-06-22T13:36:23Z"
+  },
+  {
+    "description": "Job Description Description Step into a mission where what you do truly matters! At Leidos, innovation is at the heart of everything we do. Powered by a team as diverse as it is talented, we're driven by a shared passion for delivering bold solutions that fuel our customers' success. We believe in empowering our people, giving back to our communities, and leading with sustainability. Every action we take is grounded in integrity and a steadfast commitment to doing what’s right—for our customers…",
+    "created": "2026-06-22T13:36:21Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzE0OCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.vPhll5XSzVvgCdCnTOMmyAPU8dW2oEuBb934Cvi03cI",
+    "latitude": 32.877943,
+    "location": {
+      "area": [
+        "US",
+        "South Carolina",
+        "Hampton County",
+        "Hampton"
+      ],
+      "display_name": "Hampton, Hampton County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703148?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=94818D522668552BCF8FA124A9334F8D9CCEDFA6",
+    "salary_min": 105564.73,
+    "salary_is_predicted": "1",
+    "longitude": -81.127605,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Distributed Common Ground System (DCGS) Instructor",
+    "category": {
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Leidos"
+    },
+    "salary_max": 105564.73,
+    "id": "5772703148"
+  },
+  {
+    "title": "CNC MachinistA Shift",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -89.53176,
+    "salary_min": 49839.86,
+    "salary_is_predicted": "1",
+    "id": "5772703149",
+    "salary_max": 49839.86,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "PEKO Precision Products"
+    },
+    "category": {
+      "label": "Manufacturing Jobs",
+      "tag": "manufacturing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-06-22T13:36:21Z",
+    "description": "Job Description PEKO Precision Products: We Make Products That Matter PEKO is a full-service, debt-free, privately-owned contract manufacturer with over 50 years embedded in the Rochester, NY community. In collaboration with our valued business partners, we deliver new product development (NPI) strategies for product commercialization and provide solutions in the medical, industrial, defense, and renewable energy industries. Enriching life is a crucial component of what we do daily. The Opportu…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703149?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=55C4071749978FC15F9FE25C55C32613CE1CD192",
+    "latitude": 39.749494,
+    "location": {
+      "display_name": "Rochester, Sangamon County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Illinois",
+        "Sangamon County",
+        "Rochester"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTQ5In0.E0YVv4zFsxG-Hqxu3w4WJ4LdrjPYzZImoIRon1aFq2k"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "domestic-help-cleaning-jobs",
+      "label": "Domestic help & Cleaning Jobs"
+    },
+    "company": {
+      "display_name": "Ashley Global Retail, LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 35941.94,
+    "id": "5772703150",
+    "salary_min": 35941.94,
+    "salary_is_predicted": "1",
+    "longitude": -106.6516,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Retail Warehouse Associate (Albuquerque, NM)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzE1MCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.tRs6YcEqOT39cidDMLYVeEYZBJxUDn63z2wnIoGeZ2k",
+    "latitude": 35.0846,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Albuquerque, Bernalillo County",
+      "area": [
+        "US",
+        "New Mexico",
+        "Bernalillo County",
+        "Albuquerque"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703150?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=64575A7B8A8E4F6DEAFEB41664450627C805ED50",
+    "created": "2026-06-22T13:36:21Z",
+    "description": "Job Description Join the Ashley Family - We Hire for Attitude, Train for Skill \\n \\n Join the Ashley Family as a Retail Warehouse Associate and help bring quality furniture to millions of homes across America. This role offers opportunities to master warehouse operations, product preparation and repairs, material handling, equipment operation, inventory management, and quality assurance while developing valuable skills. \\n \\n We value our team members and provide competitive pay, excellent heal…"
+  },
+  {
+    "title": "Director of Nursing",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -74.525118,
+    "salary_is_predicted": "1",
+    "salary_min": 72614.28,
+    "id": "5772703142",
+    "salary_max": 72614.28,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Stellar Senior Living [Parent]"
+    },
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Job Description Job Description Registered Nurse (RN) - Senior Living Community We are on the lookout for an exceptional Registered Nurse to become part of our team at a senior living community located in Delta, Colorado. Join a group of dedicated, intelligent, and compassionate professionals committed to providing our seniors with the quality of life they deserve. About Us “Our ultimate aim is to excel in everything we do, ensuring a Stellar life for our residents, their families, and our staf…",
+    "created": "2026-06-22T13:36:20Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703142?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=6906C4A4877A8F5E585D83A77FBE1663661939D7",
+    "latitude": 40.49887,
+    "location": {
+      "display_name": "Somerset, Somerset County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "New Jersey",
+        "Somerset County",
+        "Somerset"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTQyIn0.XIKGBruCOtSmqTO1d3U44mxs8VOwIQNtmDvFcSV-SK8"
+  },
+  {
+    "salary_min": 115590.2,
+    "salary_is_predicted": "1",
+    "title": "Maternal Fetal Medicine Physician - Saint Luke's - Kansas City, MO",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -94.626957,
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5772703145",
+    "salary_max": 115590.2,
+    "company": {
+      "display_name": "Saint Luke's",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-06-22T13:36:20Z",
+    "description": "Job Description Job Description Our organization is on the lookout for board-eligible or board-certified candidates to join our expanding maternal-fetal medicine practice located in Kansas City, Missouri. Position Overview Engage in clinical work for four days each week, complemented by one administrative day. Participate in a comprehensive laborist program that operates around the clock, with maternal-fetal medicine specialists available as consultants, ensuring a favorable work-life balance. …",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTQ1In0.PLpDkBRZX7SXlUB-wzDOLLos2B-uOAqBS2onRBWnTW8",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703145?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=8178FCDBF21D8696A7BB44F2C8B084CFC302F40E",
+    "location": {
+      "display_name": "Kansas City, Wyandotte County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Kansas",
+        "Wyandotte County",
+        "Kansas City"
+      ]
+    },
+    "latitude": 39.117388
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Full Time OBGYN (South Miami Area)",
+    "longitude": -80.134484,
+    "salary_is_predicted": "1",
+    "salary_min": 59305.57,
+    "id": "5772703147",
+    "company": {
+      "display_name": "Jimenez Siman MD LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 59305.57,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "created": "2026-06-22T13:36:20Z",
+    "description": "Job Description Job Description Our organization is seeking a dedicated full-time physician to become a part of our team. With over 40 years of service in the community, our practice is conveniently situated just two blocks from the local hospital. Key Responsibilities Oversee the care of obstetrical and gynecological patients Conduct well-woman examinations Address gynecological issues Perform gynecological surgeries Manage deliveries at the local hospital Participate in on-call rotation",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703147?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=FC7251521C435FD38A5735E9F7B846A5B3E3F0DD",
+    "latitude": 25.756014,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Miami, Miami-Dade County",
+      "area": [
+        "US",
+        "Florida",
+        "Miami-Dade County",
+        "Miami"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzE0NyIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.ElnKQoaZmLYkUgAcgdOIBj4o3BPUgldqg6ceahLulaY"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Together Women's Health"
+    },
+    "salary_max": 58597.93,
+    "id": "5772703143",
+    "salary_min": 58597.93,
+    "salary_is_predicted": "1",
+    "longitude": -70.493114,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "OB/GYN Physician",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzE0MyIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.BMOMHJ_vgFVxrlj1aAnTaN-i5n3IxvN5hEI8HE4weEU",
+    "location": {
+      "area": [
+        "US",
+        "Maine",
+        "Oxford County",
+        "Oxford"
+      ],
+      "display_name": "Oxford, Oxford County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 44.131738,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703143?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=4BFEE2E9EFC3329070AF62BE69F51BA321D5E8FF",
+    "created": "2026-06-22T13:36:20Z",
+    "description": "Job Description Job Description Become Part of a Flourishing, Physician-Driven OB/GYN Practice Committed to Enhancing Women's Health for Over 70 Years Our organization in Oxford, Mississippi is on the lookout for a full-time Associate OB/GYN Physician to become a vital member of our dedicated, patient-focused team. Why Choose Our Organization Established & Supportive Team - Comprising 2 partners, 1 associate, and 2 Advanced Practice Providers (APPs). State-of-the-Art Facility - A newly built cl…"
+  },
+  {
+    "created": "2026-06-22T13:36:19Z",
+    "description": "Job Description Overview Are you ready to take the next step in your professional journey? At Minnesota Oncology, we believe that our people are our greatest asset, and we are committed to fostering a diverse and inclusive workplace where everyone can thrive. We are constantly on the lookout for talented individuals who are passionate, driven, and eager to make a difference. Come join this dynamic team who is passionate about providing exceptional care to our patients. Why Work for Us? We offer…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703134?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=E0F867266F0A3239986F019462E77FB86A4D3FE8",
+    "latitude": 45.02691,
+    "location": {
+      "display_name": "Little Canada, Ramsey County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Minnesota",
+        "Ramsey County",
+        "Little Canada"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEzNCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.9s1AdKL2gfhXY31qdy4FNMX8P-jQnYw9qF3IURDbS6o",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Oncology Coding Specialist",
+    "longitude": -93.08772,
+    "salary_is_predicted": "1",
+    "salary_min": 49858.97,
+    "id": "5772703134",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "The US Oncology Network"
+    },
+    "salary_max": 49858.97,
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "longitude": -79.820616,
+    "title": "General Cardiologist opportunity with a large non-profit healthcare system near the coast of South",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "salary_min": 114529.01,
+    "salary_max": 114529.01,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "McLeod Health"
+    },
+    "id": "5772703137",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "description": "Job Description Job Description General Cardiologist – Faculty Position Available Near the South Carolina Coast! Position Overview Our organization is on the lookout for a Board-Certified or Board-Eligible General Cardiologist to become part of our expanding team at a 517-bed tertiary care facility, which serves as the flagship hospital in Florence, South Carolina. This exceptional role offers a balanced focus—50% dedicated to clinical general cardiology and 50% to an academic faculty position,…",
+    "created": "2026-06-22T13:36:19Z",
+    "latitude": 34.213396,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Florence, Florence County",
+      "area": [
+        "US",
+        "South Carolina",
+        "Florence County",
+        "Florence"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703137?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=F7F76D1F3AE415DE5D0CE08F6164D85AC619F000",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEzNyIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.0zM-iAukIvdnGAGY0q-FNjUwVVYnF_OsRjw6iyPijOY"
+  },
+  {
+    "salary_min": 120882.79,
+    "salary_is_predicted": "1",
+    "longitude": -80.134484,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Clinical Faculty, Open Rank - Medicine, Cardiology- Advanced Heart Failure and Transplant Cardiologi",
+    "category": {
+      "tag": "teaching-jobs",
+      "label": "Teaching Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "University of Miami - UHealth"
+    },
+    "salary_max": 120882.79,
+    "id": "5772703138",
+    "created": "2026-06-22T13:36:19Z",
+    "description": "Job Description Job Description Job Opportunity: Advanced Heart Failure and Transplant Cardiologist Our organization is on the lookout for a talented and driven Advanced Heart Failure and Transplant Cardiologist to enhance our vibrant team within the Cardiovascular Division of the Department of Medicine. This role presents a thrilling chance to play a vital part in the development and success of our Advanced Heart Failure and Cardiac Transplantation initiatives at UHealth and the Miami Transpla…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTM4In0.-fe_3VVfC1I_a8Pa5JFp_xqZFNtceKE1-j1m5YePHBc",
+    "location": {
+      "display_name": "Miami, Miami-Dade County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Florida",
+        "Miami-Dade County",
+        "Miami"
+      ]
+    },
+    "latitude": 25.756014,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703138?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=8D37787617D99DDFE79D9BD9C178063C27A45E44"
+  },
+  {
+    "longitude": -122.614985,
+    "title": "OB/GYN",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "salary_min": 45246.69,
+    "salary_max": 45246.69,
+    "company": {
+      "display_name": "Middlesex OB-GYN Associates",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5772703139",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "created": "2026-06-22T13:36:19Z",
+    "description": "Job Description Job Description Job Overview We are excited to announce an opportunity for a full-time Physician to join our well-established OB/GYN practice, which has proudly served the Middlesex County community for over 75 years. Our organization is affiliated with a highly regarded hospital, recognized as one of the top 100 hospitals in the nation, and is part of one of the largest networks of OB/GYN providers in the United States. Key Responsibilities Participate in shared call (1:5) with…",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Middletown, Lake County",
+      "area": [
+        "US",
+        "California",
+        "Lake County",
+        "Middletown"
+      ]
+    },
+    "latitude": 38.752405,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703139?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=FC22A9167C85CCC78A9A7F5DB27A97B147B4A146",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTM5In0.ml73QCem9GKejafo1DuZLX4olyweTw7LKI8I0zwR9uI"
+  },
+  {
+    "created": "2026-06-22T13:36:19Z",
+    "description": "Job Description Become part of the compassionate team at Life Care Center of McMinnville, a distinguished skilled nursing and rehabilitation facility located in the heart of McMinnville, Oregon. Our team has a history of remarkable growth, and McMinnville itself is a fantastic place to call home, offering a charming small-town atmosphere with plenty of activities for leisure. Situated just an hour from both Portland and the Oregon Coast, this scenic Willamette Valley locale provides an excellen…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEzNSIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.NeclZFhvaraiTMcHhazQhHRx4-DkXZ9DF_seLj6Yha8",
+    "latitude": 45.210116,
+    "location": {
+      "area": [
+        "US",
+        "Oregon",
+        "Yamhill County",
+        "Mcminnville"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mcminnville, Yamhill County"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703135?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=2C42EE390AF20D1D7048B4E3B902DEDFDF2D2BAB",
+    "salary_is_predicted": "1",
+    "salary_min": 42749.7,
+    "longitude": -123.198716,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "RN Registered Nurse",
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 42749.7,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Life Care Center of McMinnville"
+    },
+    "id": "5772703135"
+  },
+  {
+    "salary_is_predicted": "1",
+    "salary_min": 64177.84,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Dental Hygienist",
+    "longitude": -86.394431,
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5772703132",
+    "salary_max": 64177.84,
+    "company": {
+      "display_name": "Cedar Bend Dental Care",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Job Description $10,000 Sign on Bonus Cedar Bend Dental Care in Coon Rapids, MN is looking for a Full Time Dental Hygienist to join our team. Tired of job posts that overpromise? We value honesty, teamwork, and a supportive culture—no bait and switch. Join a team where you can truly connect with patients (avg 7 per day), grow your skills with modern technology, and receive ongoing support as you advance. No high-pressure sales—just quality care, relationship-building, and education. Looking for…",
+    "created": "2026-06-22T13:36:18Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEzMiIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.AioNvauogi0nGtGb2O-J3WObMK9ndVtqjbzFB2Kett0",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703132?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=ECC211DCECC7809DA3CC9639E32CF7DB000F9695",
+    "latitude": 34.537034,
+    "location": {
+      "area": [
+        "US",
+        "Alabama",
+        "Madison County",
+        "New Hope"
+      ],
+      "display_name": "New Hope, Madison County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "id": "5772703131",
+    "salary_max": 65689.18,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Winston Resources"
+    },
+    "salary_is_predicted": "1",
+    "salary_min": 65689.18,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Medical-Surgical RN",
+    "longitude": -87.928959,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEzMSIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.y4UzK7Y8ocjGMl8NoKdT35x9V7eTWcYaEJk47sZE5L0",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703131?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=EBE91A5F0A266423B22B34885ED634A18C08D40D",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wheeling, Cook County",
+      "area": [
+        "US",
+        "Illinois",
+        "Cook County",
+        "Wheeling"
+      ]
+    },
+    "latitude": 42.139193,
+    "description": "Job Description Winston Resources is seeking a travel nurse RN Med Surg for a travel nursing job in Wheeling, West Virginia. Job Description & Requirements Specialty: Med Surg Discipline: RN Start Date: ASAP Duration: 13 weeks 36 hours per week Shift: 12 hours, nights Employment Type: Travel Are you ready to take advantage of first-class travel contracts across the Unites States? Winston Resources has an immediate opening for a RN (Registered Nurse) in Wheeling, WV. \\n\\n Job Summary \\n\\n \\n\\t S…",
+    "created": "2026-06-22T13:36:16Z"
+  },
+  {
+    "salary_is_predicted": "1",
+    "salary_min": 81164.84,
+    "title": "Travel Nurse RN - ED - Emergency Department",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -85.978308,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "id": "5772703130",
+    "company": {
+      "display_name": "TRS Healthcare",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 81164.84,
+    "description": "Job Description TRS Healthcare is seeking a travel nurse RN ED - Emergency Department for a travel nursing job in Lakeview, Oregon. Job Description & Requirements Specialty: ED - Emergency Department Discipline: RN Start Date: ASAP Duration: 13 weeks 36 hours per week Shift: 12 hours, nights Employment Type: Travel TRS Healthcare Job ID 1482061. Pay package is based on 12 hour shifts and 36 hours per week (subject to confirmation) with tax-free stipend amount to be determined. Posted job title:…",
+    "created": "2026-06-22T13:36:15Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTMwIn0.QiFbY_ecWhHm-TKJP8grSUw7VrsVIbbnxYuwI7x_F44",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703130?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=291C010FD02EDA8E763C0F58BFCCF42B9938E2DC",
+    "location": {
+      "area": [
+        "US",
+        "Alabama",
+        "DeKalb County",
+        "Lakeview"
+      ],
+      "display_name": "Lakeview, DeKalb County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 34.390923
+  },
+  {
+    "created": "2026-06-22T13:36:14Z",
+    "description": "Job Description American Medical Staffing is seeking a travel nurse RN PCU - Progressive Care Unit for a travel nursing job in Nashville, Tennessee. Job Description & Requirements Specialty: PCU - Progressive Care Unit Discipline: RN Start Date: ASAP Duration: 13 weeks 36 hours per week Shift: 12 hours Employment Type: Travel We’re living in the new normal. Lives and careers look different today. So why shouldn’t you have a role that delivers excitement, fewer restrictions, and brings you close…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTI5In0.3iSXjXWdadkbVphJuWnfqtVib-lzwwXcjUI6CVl9Szw",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703129?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=14E4A2ECA2129A5EDA26BD418986D102A65446DA",
+    "latitude": 33.945669,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Nashville, Howard County",
+      "area": [
+        "US",
+        "Arkansas",
+        "Howard County",
+        "Nashville"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "salary_min": 58477.84,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Nurse RN - PCU - Progressive Care Unit",
+    "longitude": -93.847129,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "id": "5772703129",
+    "salary_max": 58477.84,
+    "company": {
+      "display_name": "American Medical Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "description": "Job Description AMN Healthcare Nursing is seeking a travel nurse RN ICU - Intensive Care Unit for a travel nursing job in Mechanicsville, Virginia. Job Description & Requirements Specialty: ICU - Intensive Care Unit Discipline: RN Start Date: 07/06/2026 Duration: 13 weeks 36 hours per week Shift: 12 hours, days Employment Type: Travel Job Description & Requirements \\n \\nRegistered Nurse – Intensive Care - ICU - Travel - (ICU RN)\\n \\nStartDate: 7/6/2026 \\nAvailable Shifts: 12 D \\nPay Rate: $2140…",
+    "created": "2026-06-22T13:36:14Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEyNyIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.5nTntxQ_V98sE3O2apv73-B4-4skXEFccuCjdk-tNP8",
+    "location": {
+      "display_name": "Mechanicsville, Windham County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Connecticut",
+        "Windham County",
+        "Mechanicsville"
+      ]
+    },
+    "latitude": 41.940098,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703127?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=02689EDF3AC39F0505C3911463A51CDA6CBDBE00",
+    "salary_min": 52783.75,
+    "salary_is_predicted": "1",
+    "longitude": -71.893683,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Nurse RN - ICU - Intensive Care Unit",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "company": {
+      "display_name": "AMN Healthcare Nursing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 52783.75,
+    "id": "5772703127"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "id": "5772703128",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Epic Travel Staffing Allied"
+    },
+    "salary_max": 83230.61,
+    "salary_min": 83230.61,
+    "salary_is_predicted": "1",
+    "title": "Travel Cardiac Cath Lab Technologist",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -117.182538,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEyOCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.efGGU2jh6hO83-bWbh8XkCLftRwM-haIdWuRIkLlZTg",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703128?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=30F08A9A26351B90136B9718DAB3A01F833F3844",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Redlands, San Bernardino County",
+      "area": [
+        "US",
+        "California",
+        "San Bernardino County",
+        "Redlands"
+      ]
+    },
+    "latitude": 34.055569,
+    "description": "Job Description Epic Travel Staffing Allied is seeking a travel Cath Lab Technologist for a travel job in Redlands, California. Job Description & Requirements Specialty: Cath Lab Technologist Discipline: Allied Health Professional Start Date: 07/21/2026 Duration: 13 weeks 40 hours per week Shift: 10 hours, days Employment Type: Travel Job Opportunities\\n Travel Cath Lab Tech - \\n\\n Epic Travel Staffing is hiring a Travel Cath Lab Tech - . We`ll be your ticket to the travel Cardiac Tech - job yo…",
+    "created": "2026-06-22T13:36:14Z"
+  },
+  {
+    "title": "Travel Respiratory Therapist",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -91.136254,
+    "salary_min": 81242.27,
+    "salary_is_predicted": "1",
+    "id": "5772703125",
+    "salary_max": 81242.27,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Fusion Medical Staffing-Cardio"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "created": "2026-06-22T13:36:10Z",
+    "description": "Job Description Fusion Medical Staffing-Cardio is seeking a travel Respiratory Therapist for a travel job in Carthage, Tennessee. Job Description & Requirements Specialty: Respiratory Therapist Discipline: Allied Health Professional Start Date: ASAP Duration: 13 weeks 36 hours per week Shift: 12 hours, days Employment Type: Travel Travel Respiratory Therapist (CRT) Company: Fusion Medical Staffing Location: Facility in Carthage, Tennessee Job Details: Fusion Medical Staffing is seeking a skille…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703125?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=B0B902C41F7BDD37509266AF8D592BD61904F493",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Carthage, Hancock County",
+      "area": [
+        "US",
+        "Illinois",
+        "Hancock County",
+        "Carthage"
+      ]
+    },
+    "latitude": 40.416433,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEyNSIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.BKmsjmsQCh4TTV7D-oNSiNw_rpjzQ-ouALf10i-MJ7w"
+  },
+  {
+    "id": "5772703126",
+    "salary_max": 38290.59,
+    "company": {
+      "display_name": "THP Healthcare Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel RN Medical-Surgical Telemetry",
+    "longitude": -116.17514,
+    "salary_is_predicted": "1",
+    "salary_min": 38290.59,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703126?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=7650E9CD8EC36297153C782997C40ED654505E59",
+    "latitude": 46.3899,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Greer, Clearwater County",
+      "area": [
+        "US",
+        "Idaho",
+        "Clearwater County",
+        "Greer"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTI2In0.ofgF4ZbXVaQ-gEmSZZMDIdS3wW8EoHcEgG2_qMfqIZo",
+    "created": "2026-06-22T13:36:10Z",
+    "description": "Job Description THP Healthcare Staffing is seeking a travel nurse RN Med Surg / Telemetry for a travel nursing job in Greer, South Carolina. Job Description & Requirements Specialty: Med Surg / Telemetry Discipline: RN Start Date: 07/13/2026 Duration: 13 weeks 36 hours per week Shift: 12 hours, nights Employment Type: Travel Our Client is currently seeking RN - MedSurg / Tele positions in Greer, SC for a 3x12 Nights shift. You must have current State Licensure and at least 1 year of recent expe…"
+  },
+  {
+    "description": "Job Description AMN Healthcare Revenue Cycle is seeking a Social Work Master of Social Work for a travel job in Virginia Beach, Virginia. Job Description & Requirements Specialty: Master of Social Work Discipline: Social Work Start Date: 06/29/2026 Duration: 13 weeks 40 hours per week Shift: 8 hours Employment Type: Travel Job Description & Requirements \\n \\nMSW\\n \\nStartDate: 6/29/2026 \\n\\nPay Rate: $1600.00 - $2400.00 \\n \\n POSITION SUMMARY MSW POSITION DUTIES Behavior Health MINIMUM REQUIRED…",
+    "created": "2026-06-22T13:36:08Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEyNCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.L5xrLiEtWnG5lU8beCgGiI_pms1Y1G_9a__Xn-p4sQE",
+    "latitude": 36.864357,
+    "location": {
+      "area": [
+        "US",
+        "Virginia",
+        "Virginia Beach City",
+        "Virginia Beach"
+      ],
+      "display_name": "Virginia Beach, Virginia Beach City",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703124?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=BC8BE5BD23D771B8D95266D75AF376ED1A756690",
+    "salary_is_predicted": "1",
+    "salary_min": 100154.2,
+    "longitude": -75.998569,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Social Work - Master of Social Work",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "AMN Healthcare Revenue Cycle",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 100154.2,
+    "id": "5772703124"
+  },
+  {
+    "salary_min": 55207.96,
+    "salary_is_predicted": "1",
+    "title": "Travel Nurse RN - OR - Operating Room",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -117.119837,
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5772703121",
+    "salary_max": 55207.96,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "First Connect Health"
+    },
+    "created": "2026-06-22T13:36:07Z",
+    "description": "Job Description First Connect Health is seeking a travel nurse RN OR - Operating Room for a travel nursing job in Apple Valley, California. Job Description & Requirements Specialty: OR - Operating Room Discipline: RN Start Date: 07/20/2026 Duration: 13 weeks 36 hours per week Shift: 12 hours, days Employment Type: Travel OR RN Opportunity Requirements: • Minimum 2 years of Operating Room (OR) RN experience required • BLS certification required • Active California (CA) State RN license required …",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEyMSIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.ShcnCulQkA9LV_215V7xW7Z6wpRxMBfU_Rdj4uCvT_o",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703121?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=341BED9ACB882E1E208C84861E37A13885C775DA",
+    "location": {
+      "display_name": "Apple Valley, San Bernardino County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "California",
+        "San Bernardino County",
+        "Apple Valley"
+      ]
+    },
+    "latitude": 34.602626
+  },
+  {
+    "longitude": -85.483581,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Nurse RN - Telemetry",
+    "salary_is_predicted": "1",
+    "salary_min": 30769.44,
+    "company": {
+      "display_name": "MedCadre",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 30769.44,
+    "id": "5772703120",
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-06-22T13:36:06Z",
+    "description": "Job Description MedCadre is seeking a travel nurse RN Telemetry for a travel nursing job in Greensburg, Pennsylvania. Job Description & Requirements Specialty: Telemetry Discipline: RN Duration: 13 weeks 36 hours per week Shift: 12 hours, nights Employment Type: Travel Must have BLS and ACLS PA license in hand 2 years of Telemetry experience required About MedCadre At MedCadre, headquartered in Irvine, California and serving healthcare organizations nationwide, we connect exceptional clinicians…",
+    "location": {
+      "display_name": "Greensburg, Decatur County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Indiana",
+        "Decatur County",
+        "Greensburg"
+      ]
+    },
+    "latitude": 39.337272,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703120?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=7D3CE0F4140656AC39B10ED3060DBDB9E6DDF17C",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzEyMCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.uqM1GODgH85FF_XpMHZL_d3mky8MiYMDe7_blZBKHek"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTE5In0.jFdaC5i9GdCrCqlo4o_KXCR2_rl_GAh0XTZv5zAZnBM",
+    "location": {
+      "area": [
+        "US",
+        "Alaska",
+        "Anchorage"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Anchorage, Alaska"
+    },
+    "latitude": 61.218923,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703119?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=ED8EB649657F68129D0CAF8D581778362363207D",
+    "description": "Job Description Revolution Healthcare Services is seeking a travel nurse RN Case Management for a travel nursing job in Anchorage, Alaska. Job Description & Requirements Specialty: Case Management Discipline: RN Start Date: 07/20/2026 Duration: 13 weeks 40 hours per week Shift: 8 hours, days Employment Type: Travel Job Opportunity – Pediatric Case Manager RN – Alaska Start Date: ASAP Location: Anchorage, Alaska Compensation: Details provided to qualified applicants Schedule: 5x8 Days (40 hours/…",
+    "created": "2026-06-22T13:36:06Z",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Revolution Healthcare Services",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 49886.84,
+    "id": "5772703119",
+    "salary_min": 49886.84,
+    "salary_is_predicted": "1",
+    "longitude": -149.850373,
+    "title": "Travel Pediatric RN Case Manager",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "salary_min": 250038.2,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Echo Technician",
+    "longitude": -122.465895,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "id": "5772703117",
+    "company": {
+      "display_name": "Cure Healthcare Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 250038.2,
+    "description": "Job Description Cure Healthcare Staffing is seeking a travel Echo Technician for a travel job in Redding, California. Job Description & Requirements Specialty: Echo Technician Discipline: Allied Health Professional Start Date: 06/29/2026 Duration: 13 weeks 36 hours per week Shift: 12 hours, days Employment Type: Travel Cure Healthcare is seeking a Sonographer/Ultrasound Tech - Cardiac/ Echo Tech for positions in Redding, California. Current California license and AHA BLS and ACLS required and a…",
+    "created": "2026-06-22T13:36:05Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTE3In0.M9rW6lgjRSdZpdv60spA-SUTm52vVQlwOT-bKyknTNY",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703117?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=76105BD7DC02C78677325403F7D488153F50E590",
+    "location": {
+      "area": [
+        "US",
+        "California",
+        "Shasta County",
+        "Redding"
+      ],
+      "display_name": "Redding, Shasta County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 40.624664
+  },
+  {
+    "id": "5772703118",
+    "salary_max": 70543.26,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Epic Travel Staffing Allied"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Travel Physical Therapist - Acute Care Hospital",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -92.472686,
+    "salary_is_predicted": "1",
+    "salary_min": 70543.26,
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703118?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=05686B17D5E39887867E0A2A85DC3685F8C2C30F",
+    "latitude": 39.742256,
+    "location": {
+      "display_name": "Macon, Macon County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Missouri",
+        "Macon County",
+        "Macon"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzExOCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.whcUJ_9rpV-NXu9y7pC3CiXl2BtdHiZTtRFDxeIcJck",
+    "created": "2026-06-22T13:36:05Z",
+    "description": "Job Description Epic Travel Staffing Allied is seeking a travel Physical Therapist for a travel job in Macon, Georgia. Job Description & Requirements Specialty: Physical Therapist Discipline: Therapy Start Date: 07/06/2026 Duration: 13 weeks 40 hours per week Shift: 8 hours, days Employment Type: Travel Job Opportunities\\n Travel Physical Therapist - \\n\\n Epic Travel Staffing is hiring a Travel Physical Therapist - . We`ll be your ticket to the travel PT - job you`ll love with unparalleled recr…"
+  },
+  {
+    "description": "Job Description AMN Healthcare Nursing is seeking a travel nurse RN ED - Emergency Department for a travel nursing job in Lander, Wyoming. Job Description & Requirements Specialty: ED - Emergency Department Discipline: RN Start Date: 07/20/2026 Duration: 13 weeks 36 hours per week Shift: 12 hours, nights Employment Type: Travel Job Description & Requirements \\n \\nRegistered Nurse – Emergency Room - Travel - (ER RN)\\n \\nStartDate: 7/20/2026 \\nAvailable Shifts: 12 N \\nPay Rate: $2081.00 - $2210.0…",
+    "created": "2026-06-22T13:36:03Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703116?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=78A0639EF34B1E538B23D14E4F0568C40075F7FB",
+    "latitude": 42.833075,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Lander, Fremont County",
+      "area": [
+        "US",
+        "Wyoming",
+        "Fremont County",
+        "Lander"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzExNiIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.KxK86pZp07hvdy4zKDVK7vZMb4HUbvrXzMYfh3ffcyg",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Nurse RN - ED - Emergency Department",
+    "longitude": -108.730702,
+    "salary_is_predicted": "1",
+    "salary_min": 63405.29,
+    "id": "5772703116",
+    "salary_max": 63405.29,
+    "company": {
+      "display_name": "AMN Healthcare Nursing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    }
+  },
+  {
+    "created": "2026-06-22T13:36:01Z",
+    "description": "Job Description THP Healthcare Staffing is seeking a travel nurse RN ED - Emergency Department for a travel nursing job in Terre Haute, Indiana. Job Description & Requirements Specialty: ED - Emergency Department Discipline: RN Start Date: ASAP Duration: 13 weeks 36 hours per week Shift: 12 hours, nights Employment Type: Travel Our Client is currently seeking RN - ER positions in Terre Haute, IN for a 3x12 Nights shift. You must have current State Licensure and at least 1 year of recent experie…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703113?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=672151C142D0BC5A00182CAF5DEC6DDAC4BEE62F",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Terre Haute, Vigo County",
+      "area": [
+        "US",
+        "Indiana",
+        "Vigo County",
+        "Terre Haute"
+      ]
+    },
+    "latitude": 39.466703,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUZ4QVBXSnU4UkduOWE3dmpSaGNadyIsImkiOiI1NzcyNzAzMTEzIn0.Wsk1_ZLRhz88ywvcmOVbX9g8yUdWnJarfJdVcrqnnpY",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Travel Nurse RN - ED - Emergency Department",
+    "longitude": -87.413909,
+    "salary_min": 38123.67,
+    "salary_is_predicted": "1",
+    "id": "5772703113",
+    "company": {
+      "display_name": "THP Healthcare Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 38123.67,
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "salary_is_predicted": "1",
+    "salary_min": 58755.95,
+    "title": "Travel Neuro Med/Surg Registered Nurse",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -104.98776,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "id": "5772703114",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Revolution Healthcare Services"
+    },
+    "salary_max": 58755.95,
+    "description": "Job Description Revolution Healthcare Services is seeking a travel nurse RN Med Surg for a travel nursing job in Englewood, Colorado. Job Description & Requirements Specialty: Med Surg Discipline: RN Start Date: 06/29/2026 Duration: 13 weeks 36 hours per week Shift: 12 hours, days Employment Type: Travel Job Opportunity – Travel Registered Nurse, Medical/Surgical (Neuro Med Surg) – Colorado Start Date: June 29, 2026 Location: Englewood, Colorado Compensation: Details provided to qualified appli…",
+    "created": "2026-06-22T13:36:01Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MjcwMzExNCIsInMiOiI1RnhBUFdKdThSR245YTd2alJoY1p3In0.Rwavz9UH3VJLwQLHjsS9myI5ULgqAi3R_48_K2lP7xs",
+    "redirect_url": "https://www.adzuna.com/land/ad/5772703114?se=5FxAPWJu8RGn9a7vjRhcZw&utm_medium=api&utm_source=abfa41a4&v=4F5052C77B7891C738C6663D86C087890B6D4D15",
+    "location": {
+      "display_name": "Englewood, Arapahoe County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Colorado",
+        "Arapahoe County",
+        "Englewood"
+      ]
+    },
+    "latitude": 39.647765
+  }
+]
