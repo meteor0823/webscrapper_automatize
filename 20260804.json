@@ -1,0 +1,1572 @@
+[
+  {
+    "latitude": 40.51998,
+    "category": {
+      "label": "Logistics & Warehouse Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "logistics-warehouse-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNjMyOCIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.tdqayygMjCG6hhsioP7FOVE0CPljLOGfQBEym9R7cls",
+    "salary_min": 70000,
+    "created": "2026-08-04T11:28:29Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -74.28156,
+    "title": "Local CDL-A Driver",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "SYSTEM FREIGHT"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5827936328?se=CpO6YBmQ8RG5JrYntIBpaQ&utm_medium=api&utm_source=abfa41a4&v=DFF64957BBF6BA114C4EF6647F03CECC063B94B7",
+    "description": "System Freight is seeking a safety-focused Local CDL-A Driver to handle regional, time-sensitive freight across the Northeast and Mid-Atlantic. In this family-oriented, professional environment, you’ll run consistent local and regional routes, perform safe and efficient pickups and deliveries, complete accurate logs and inspections, and communicate clearly with dispatch and customers. Enjoy stable, year-round freight, competitive pay, and the backing of an established, dedicated fleet carrier t…",
+    "id": "5827936328",
+    "salary_max": 90000,
+    "location": {
+      "display_name": "Hopelawn, Middlesex County",
+      "area": [
+        "US",
+        "New Jersey",
+        "Middlesex County",
+        "Hopelawn"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "id": "5827935267",
+    "redirect_url": "https://www.adzuna.com/details/5827935267?utm_medium=api&utm_source=abfa41a4",
+    "description": "Perdue Transportation Incorporated (PTI) is the transportation service and logistics provider for Perdue Foods. PTI’s team is comprised of support staff and private fleet drivers. All drivers and team members are safety-minded and deliver on our promise for customer service and reliability each day. Perdue Transportation Inc. is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that s…",
+    "salary_max": 52228.54,
+    "company": {
+      "display_name": "Perdue Farms",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -83.731572,
+    "title": "Regional Driver",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Georgia",
+        "Houston County",
+        "Perry"
+      ],
+      "display_name": "Perry, Houston County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 32.458207,
+    "salary_min": 52228.54,
+    "created": "2026-08-04T11:28:19Z",
+    "category": {
+      "tag": "logistics-warehouse-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Logistics & Warehouse Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNTI2NyIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.jD28zS_2bvpOhAL0d-Ds5fAuVtIC0x_Wg19G2b3021I"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Accomac, Accomack County",
+      "area": [
+        "US",
+        "Virginia",
+        "Accomack County",
+        "Accomac"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Perdue Farms"
+    },
+    "longitude": -75.665485,
+    "title": "Mentor",
+    "redirect_url": "https://www.adzuna.com/details/5827935254?utm_medium=api&utm_source=abfa41a4",
+    "description": "Join us as a Production Mentor and play a key role in developing the next generation of talent on our production floor! In this impactful role, you’ll guide new hires through their ramp-in journey, ensuring they receive the hands-on training, rotation, and support needed to thrive. You’ll champion safety, ergonomics, and company policies while helping associates build strong work habits from day one. Partnering closely with supervisors, you’ll contribute to meaningful goals in safety, retention…",
+    "id": "5827935254",
+    "salary_max": 36976.71,
+    "category": {
+      "tag": "manufacturing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Manufacturing Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM1MjU0In0.VsiuMjofygx6GK9S7Dj90qtbJgbb34HRuA3hOqEB4D0",
+    "salary_min": 36976.71,
+    "created": "2026-08-04T11:28:18Z",
+    "latitude": 37.719574
+  },
+  {
+    "latitude": 38.659215,
+    "created": "2026-08-04T11:28:18Z",
+    "salary_min": 44678.42,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNTIyOCIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.sgwQf_Iwrr-UHLOyM2FoBf0m1WAO2H28KeZ-4lObnDU",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "manufacturing-jobs",
+      "label": "Manufacturing Jobs"
+    },
+    "salary_max": 44678.42,
+    "redirect_url": "https://www.adzuna.com/details/5827935228?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827935228",
+    "description": "Perdue Foods has a goal of becoming the most trusted name in premium proteins by creating products for consumers and for retail and foodservice customers around the globe while changing the way animals are raised for food. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and re…",
+    "title": "Production Line Lead",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -87.172789,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Perdue Farms"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Indiana",
+        "Daviess County",
+        "Washington"
+      ],
+      "display_name": "Washington, Daviess County"
+    }
+  },
+  {
+    "location": {
+      "display_name": "Milford, Sussex County",
+      "area": [
+        "US",
+        "Delaware",
+        "Sussex County",
+        "Milford"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Perdue Farms",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -75.427975,
+    "title": "Production Supervisor - 2nd Shift",
+    "salary_max": 52257.13,
+    "description": "Perdue Foods has a goal of becoming the most trusted name in premium proteins by creating products for consumers and for retail and foodservice customers around the globe while changing the way animals are raised for food. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and re…",
+    "redirect_url": "https://www.adzuna.com/details/5827935226?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827935226",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNTIyNiIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.yNpbkmHhOYm5YSgjLWhvocHRnEr4muXAtyQROBVyp2o",
+    "category": {
+      "tag": "manufacturing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Manufacturing Jobs"
+    },
+    "created": "2026-08-04T11:28:18Z",
+    "salary_min": 52257.13,
+    "latitude": 38.912613
+  },
+  {
+    "latitude": 38.211743,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM1MjE0In0.uFiaz0hnGZPTjEPiYOLGGUPVn4mCoJSstKMcCnNrmik",
+    "category": {
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs"
+    },
+    "created": "2026-08-04T11:28:18Z",
+    "salary_min": 45758.36,
+    "longitude": -122.789652,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Perdue Farms",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Maintenance Mechanic III",
+    "salary_max": 45758.36,
+    "redirect_url": "https://www.adzuna.com/details/5827935214?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827935214",
+    "description": "Perdue Foods has a goal of becoming the most trusted name in premium proteins by creating products for consumers and for retail and foodservice customers around the globe while changing the way animals are raised for food. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and re…",
+    "location": {
+      "display_name": "Petaluma, Sonoma County",
+      "area": [
+        "US",
+        "California",
+        "Sonoma County",
+        "Petaluma"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Perdue Farms"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -75.64106,
+    "title": "Hatchery Technician - Night Shift",
+    "salary_max": 38143.86,
+    "id": "5827935202",
+    "description": "Perdue Foods has a goal of becoming the most trusted name in premium proteins by creating products for consumers and for retail and foodservice customers around the globe while changing the way animals are raised for food. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and re…",
+    "redirect_url": "https://www.adzuna.com/details/5827935202?utm_medium=api&utm_source=abfa41a4",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Salisbury, Wicomico County",
+      "area": [
+        "US",
+        "Maryland",
+        "Wicomico County",
+        "Salisbury"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "latitude": 38.375981,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM1MjAyIn0.xDzf5ASnAfU-JTSCl3YuVmlqcHwSmxBCd8RHbhAUJIw",
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-08-04T11:28:18Z",
+    "salary_min": 38143.86
+  },
+  {
+    "salary_max": 47202.01,
+    "redirect_url": "https://www.adzuna.com/details/5827935230?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827935230",
+    "description": "Perdue’s Emerging Brands & Specialty Meats division leverages our core strengths in poultry while specializing in premium pork, beef, lamb, and pet nutrition segments while emphasizing health, sustainability, and convenience. Perdue's Emerging Brands & Specialty Meats is part of Perdue Farms , a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -96.175694,
+    "title": "Maintenance Mechanic A- 3rd shift",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Perdue Farms"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Iowa",
+        "Sioux County",
+        "Sioux Center"
+      ],
+      "display_name": "Sioux Center, Sioux County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 43.079799,
+    "created": "2026-08-04T11:28:18Z",
+    "salary_min": 47202.01,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM1MjMwIn0.jZKJBSLz97mqQfee-O-JUtafh6BOnMcQzHRWCP1TUVk",
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    }
+  },
+  {
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Illinois",
+        "Franklin County",
+        "Benton"
+      ],
+      "display_name": "Benton, Franklin County"
+    },
+    "salary_max": 52353.61,
+    "description": "Perdue Foods has a goal of becoming the most trusted name in premium proteins by creating products for consumers and for retail and foodservice customers around the globe while changing the way animals are raised for food. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and re…",
+    "redirect_url": "https://www.adzuna.com/details/5827935127?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827935127",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Perdue Farms"
+    },
+    "longitude": -88.920069,
+    "title": "GEN PROD FARM TECH",
+    "created": "2026-08-04T11:28:17Z",
+    "salary_min": 52353.61,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNTEyNyIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.I7evqjISYxu4KGgVc_KIJB1_iIPB0JKWB7_tRclAxBo",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs"
+    },
+    "latitude": 37.996716
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/details/5827934944?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934944",
+    "description": "Perdue Foods has a goal of becoming the most trusted name in premium proteins by creating products for consumers and for retail and foodservice customers around the globe while changing the way animals are raised for food. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and re…",
+    "salary_max": 53986.75,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Perdue Farms"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Scheduling Supervisor",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US"
+      ],
+      "display_name": "US"
+    },
+    "salary_min": 53986.75,
+    "created": "2026-08-04T11:28:16Z",
+    "category": {
+      "label": "Manufacturing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "manufacturing-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0OTQ0In0.nwux8oRmjIlrZH8VAzO4EOuyH_PYa0wEwYAGpm0xWsg"
+  },
+  {
+    "id": "5827935013",
+    "redirect_url": "https://www.adzuna.com/details/5827935013?utm_medium=api&utm_source=abfa41a4",
+    "description": "Perdue Transportation Incorporated (PTI) is the transportation service and logistics provider for Perdue Foods. PTI’s team is comprised of support staff and private fleet drivers. All drivers and team members are safety-minded and deliver on our promise for customer service and reliability each day. Perdue Transportation Inc. is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that s…",
+    "salary_max": 59572.73,
+    "title": "Feed Delivery Driver",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -77.965541,
+    "company": {
+      "display_name": "Perdue Farms",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Nashville, Nash County",
+      "area": [
+        "US",
+        "North Carolina",
+        "Nash County",
+        "Nashville"
+      ]
+    },
+    "latitude": 35.974598,
+    "salary_min": 59572.73,
+    "created": "2026-08-04T11:28:16Z",
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM1MDEzIn0.6pUlC3I9UqxRWKYqpKRfSeZ3ZwjLcS1uE47IcKhu1e4"
+  },
+  {
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "US",
+      "area": [
+        "US"
+      ]
+    },
+    "salary_max": 78942.88,
+    "redirect_url": "https://www.adzuna.com/details/5827934920?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934920",
+    "description": "Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": ".NET C# Developer",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "created": "2026-08-04T11:28:16Z",
+    "salary_min": 78942.88,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0OTIwIn0.qvJ8atkBub_i5sZNDFCBlaJvVeWOMoo9-TDNhdVIi88",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -88.013128,
+    "company": {
+      "display_name": "State of Illinois",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "OFFICE ASSOCIATE",
+    "salary_max": 59414.77,
+    "description": "Job Requisition ID: 57843 Opening Date: 08/04/2026 Closing Date: 08/17/2026 ​Agency: Department of Human Services Class Title: OFFICE ASSOCIATE - 30015 Skill Option: Keyboarding Bilingual Option: None Salary: Anticipated Salary: $4,144-$5,429/month ($49,728-$65,148/year) Job Type: Salaried Category: Full Time County: Cook Number of Vacancies: 2 Bargaining Unit Code: RC014 Clerical Employees, AFSCME Merit Comp Code: ​ This position is a union position; therefore, provisions of the relevant colle…",
+    "redirect_url": "https://www.adzuna.com/details/5827934784?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934784",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Rolling Meadows, Cook County",
+      "area": [
+        "US",
+        "Illinois",
+        "Cook County",
+        "Rolling Meadows"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "latitude": 42.084194,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDc4NCIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.Jv9KbOpKwfWEyBnAtlJA0wwhKpTL_fAYjvxHzLhNCkw",
+    "category": {
+      "label": "Admin Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "admin-jobs"
+    },
+    "created": "2026-08-04T11:28:15Z",
+    "salary_min": 59414.77
+  },
+  {
+    "location": {
+      "area": [
+        "US",
+        "Delaware",
+        "Sussex County",
+        "Milford"
+      ],
+      "display_name": "Milford, Sussex County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "longitude": -75.427975,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Perdue Farms",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Machine Operator - 1nd Shift",
+    "id": "5827934879",
+    "description": "Perdue Foods has a goal of becoming the most trusted name in premium proteins by creating products for consumers and for retail and foodservice customers around the globe while changing the way animals are raised for food. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and re…",
+    "redirect_url": "https://www.adzuna.com/details/5827934879?utm_medium=api&utm_source=abfa41a4",
+    "salary_max": 38641.07,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDg3OSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.RDQ3xEhlpAoAMM9F11JLTi5LLYlx_OJrWaP6L3RCMYc",
+    "salary_min": 38641.07,
+    "created": "2026-08-04T11:28:15Z",
+    "latitude": 38.912613
+  },
+  {
+    "latitude": 35.232678,
+    "salary_min": 173228.44,
+    "created": "2026-08-04T11:28:15Z",
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0ODA2In0._TZsgDz4ulJ7PxWdTZ9GL85sxMWsEmyj4y07kJbSbmo",
+    "description": "Perdue Foods has a goal of becoming the most trusted name in premium proteins by creating products for consumers and for retail and foodservice customers around the globe while changing the way animals are raised for food. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and re…",
+    "redirect_url": "https://www.adzuna.com/details/5827934806?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934806",
+    "salary_max": 173228.44,
+    "company": {
+      "display_name": "Perdue Farms",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -80.846082,
+    "title": "Director of Engineering - Strategic Capital Delivery",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Charlotte, Mecklenburg County",
+      "area": [
+        "US",
+        "North Carolina",
+        "Mecklenburg County",
+        "Charlotte"
+      ]
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Accomac, Accomack County",
+      "area": [
+        "US",
+        "Virginia",
+        "Accomack County",
+        "Accomac"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "title": "Staff Licensed Practical Nurse - 1st shift",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -75.665485,
+    "company": {
+      "display_name": "Perdue Farms",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 39940.81,
+    "redirect_url": "https://www.adzuna.com/details/5827934795?utm_medium=api&utm_source=abfa41a4",
+    "description": "Perdue Farms is a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and respect, where every voice matters and everyone is encouraged to contribute to our shared goals. We are dedicated to creating a supportive, inclusive environment where associates feel valued and inspired to make an impact, both within th…",
+    "id": "5827934795",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDc5NSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.-IxUvs7tEsWrADMSwrxmFA4ctHaIJQ_CniUjZDfE0rI",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "created": "2026-08-04T11:28:15Z",
+    "salary_min": 39940.81,
+    "latitude": 37.719574
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0ODMxIn0.Om5uYqubnrPQMCMDbmADpRw54pLMSRFNAUpdc9kODgY",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "created": "2026-08-04T11:28:15Z",
+    "salary_min": 40381.57,
+    "latitude": 40.308367,
+    "location": {
+      "display_name": "Rantoul, Champaign County",
+      "area": [
+        "US",
+        "Illinois",
+        "Champaign County",
+        "Rantoul"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "title": "LCA INSTRUCTOR II",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -88.155879,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "State of Illinois"
+    },
+    "salary_max": 40381.57,
+    "redirect_url": "https://www.adzuna.com/details/5827934831?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934831",
+    "description": "DEPARTMENT OF MILITARY AFFAIRS LINCOLN'S CHALLENGE ACADEMY PERSONAL SERVICE CONTRACT POSTING All applicants who want to be considered for this position MUST apply electronically through SuccessFactors. Applications submitted via email or any paper manner (mail, fax, hand delivery) will not be considered. A RESUME IS REQUIRED FOR THIS JOB POSTING Please attach a DETAILED Resume/Curriculum Vitae (CV), a copy of your transcripts or diploma for all degrees earned, and a copy of any applicable profe…"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Florida",
+        "Leon County",
+        "Tallahassee"
+      ],
+      "display_name": "Tallahassee, Leon County"
+    },
+    "salary_is_predicted": "1",
+    "longitude": -84.264752,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Mailroom Courier / Print Operator - Tallahassee, FL (Onsite)",
+    "company": {
+      "display_name": "Gainwell Technologies LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5827934612?utm_medium=api&utm_source=abfa41a4",
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary As a Mailroom Courier / Print Operator at Gainwell, you can contribute your skills as we harness the power of technology to hel…",
+    "id": "5827934612",
+    "salary_max": 28897.05,
+    "category": {
+      "label": "Logistics & Warehouse Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "logistics-warehouse-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NjEyIn0.726fRqALL63eVQeAcPplJoSjc0kTtDuokhIYp928308",
+    "salary_min": 28897.05,
+    "created": "2026-08-04T11:28:14Z",
+    "latitude": 30.430969
+  },
+  {
+    "latitude": 39.799492,
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 101962.27,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDYzNSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0._mMoVRYKNrWQVi3nmqT88tEaywRooGUMAcoaq1x-LVI",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 101962.27,
+    "redirect_url": "https://www.adzuna.com/details/5827934635?utm_medium=api&utm_source=abfa41a4",
+    "description": "Job Requisition ID: 57846 Opening Date: 08/03/2026 Closing Date: 08/17/2026 Agency: Department of Innovation and Technology Class Title: DATA PROCESSING TECH - 11440 Skill Option: None Bilingual Option: None Salary: Anticipated starting salary: $4,272 monthly; Full range: $4,272-$5,641 monthly Job Type: Salaried Category: Full Time County: Sangamon Number of Vacancies: 1 Bargaining Unit Code: RC028 Paraprofessional Human Services Employees, AFSCME Merit Comp Code: None This position is a union …",
+    "id": "5827934635",
+    "title": "System Command Center Technician (Data Processing Technician)(UMP)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -89.649874,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "State of Illinois"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Springfield, Sangamon County",
+      "area": [
+        "US",
+        "Illinois",
+        "Sangamon County",
+        "Springfield"
+      ]
+    }
+  },
+  {
+    "salary_max": 52479.82,
+    "redirect_url": "https://www.adzuna.com/details/5827934674?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934674",
+    "description": "Job Requisition ID: 56746 IPR26-01411 Opening Date: 08/03/2026 Closing Date: 08/17/2026 Agency: Department of Transportation Position Title: Deck Hand - Jersey County - Brussels Ferry Salary: Anticipated Starting Salary (Effective 7/1/26) $6,558 Monthly; Full Range: $6,558 - $8,195 Monthly Job Type: Salaried Category: Full Time County: Jersey Number of Vacancies: 4 Bargaining Unit Code: RC019 Downstate (All counties other than Cook, DuPage, Kane, Kankakee, Kendall, Lake, McHenry, & Will countie…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "DECK HAND - JERSEY COUNTY - BRUSSELS FERRY",
+    "longitude": -90.431505,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "State of Illinois"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Illinois",
+        "Jasper County",
+        "Grafton"
+      ],
+      "display_name": "Grafton, Jasper County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 38.970048,
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 52479.82,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0Njc0In0.54mEIffI90vGDy4ThA5rCmYWsvmNquxnw4JugTIQ5Iw",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Grand Forks, Grand Forks County",
+      "area": [
+        "US",
+        "North Dakota",
+        "Grand Forks County",
+        "Grand Forks"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Simplot"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -97.12256,
+    "title": "Refrigeration Operator (Crew B) Grand Forks",
+    "id": "5827934754",
+    "redirect_url": "https://www.adzuna.com/details/5827934754?utm_medium=api&utm_source=abfa41a4",
+    "description": "The Simplot Company is a diverse, privately held global food and agriculture company headquartered in Boise, Idaho. We are a true farm-to-table company with an integrated portfolio including food processing and food brands, phosphate mining, fertilizer manufacturing, farming, ranching and cattle production, and other enterprises related to agriculture. Summary This position is to maintain and operate equipment including air compressors systems, HVAC systems, fire protection systems, low oxygen …",
+    "salary_max": 57701.66,
+    "category": {
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NzU0In0.048hX3B9eY-YgDPfO2ZlJOue8XyrMKJJWzjutEBC8Ds",
+    "salary_min": 57701.66,
+    "created": "2026-08-04T11:28:14Z",
+    "latitude": 47.87222
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Maryland",
+        "Wicomico County",
+        "Salisbury"
+      ],
+      "display_name": "Salisbury, Wicomico County"
+    },
+    "salary_is_predicted": "1",
+    "longitude": -75.64106,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Soybean Crush Operator",
+    "company": {
+      "display_name": "Perdue Farms",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 37963.38,
+    "id": "5827934765",
+    "redirect_url": "https://www.adzuna.com/details/5827934765?utm_medium=api&utm_source=abfa41a4",
+    "description": "Perdue AgriBusiness is an international agricultural products and services company that handles agricultural commodities and a diverse portfolio of products and businesses. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and respect, where every voice matters and everyone is e…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDc2NSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.x5Hn_WfriBjXYoah2zAth6XaR8j5wC873RlzMCyZCf0",
+    "category": {
+      "label": "Manufacturing Jobs",
+      "tag": "manufacturing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 37963.38,
+    "latitude": 38.375981
+  },
+  {
+    "salary_max": 103211.31,
+    "redirect_url": "https://www.adzuna.com/details/5827934711?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934711",
+    "description": "Simplot is a family-owned, privately held global food and agriculture company headquartered in Boise, Idaho. Its integrated portfolio of companies includes food processing and food brands, phosphate mining, fertilizer manufacturing, farming, ranching and cattle production, and other enterprises related to agriculture. Simplot has major operations in nine countries with products and services available to customers worldwide. Summary The SAP Functional Analyst - FICO / Record-to-Report will suppo…",
+    "longitude": -115.834554,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Simplot"
+    },
+    "title": "SAP Functional Analyst III FICO",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Idaho",
+        "Boise County",
+        "Idaho City"
+      ],
+      "display_name": "Idaho City, Boise County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 43.828505,
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 103211.31,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDcxMSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.HwNzZjXgNFHZ_COENgTtfJy9GwfjnLSWYTyX_KOPBds",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Springfield, Sangamon County",
+      "area": [
+        "US",
+        "Illinois",
+        "Sangamon County",
+        "Springfield"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "longitude": -89.649874,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Enforcement Unit Supervisor",
+    "company": {
+      "display_name": "State of Illinois",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 75265.48,
+    "redirect_url": "https://www.adzuna.com/details/5827934662?utm_medium=api&utm_source=abfa41a4",
+    "description": "Job Requisition ID: 57092 Opening Date: 08/04/2026 Closing Date: 08/18/2026 Agency: Department of Natural Resources Class Title: EXECUTIVE II - 13852 Skill Option: None Bilingual Option: None Salary: Anticipated Starting Salary: $6,820 monthly; Full Range: $6,820 - $9,875 monthly Job Type: Salaried Category: Full Time County: Sangamon Number of Vacancies: 1 Bargaining Unit Code: RC062 Technical Employees, AFSCME Merit Comp Code: N/A This position is a union position; therefore, provisions of th…",
+    "id": "5827934662",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NjYyIn0.8C_N7lBSLqyXNuq4x32-4M0PkW-ArZNIdfRViiXrVAc",
+    "category": {
+      "tag": "admin-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Admin Jobs"
+    },
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 75265.48,
+    "latitude": 39.799492
+  },
+  {
+    "latitude": 43.828505,
+    "salary_min": 124593.65,
+    "created": "2026-08-04T11:28:14Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDcyMSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.NE-mslsUoDD2y6l7UOUZf6BoTLMSaruALZO37AkVOfY",
+    "id": "5827934721",
+    "redirect_url": "https://www.adzuna.com/details/5827934721?utm_medium=api&utm_source=abfa41a4",
+    "description": "Simplot is a family-owned, privately held global food and agriculture company headquartered in Boise, Idaho. Its integrated portfolio of companies includes food processing and food brands, phosphate mining, fertilizer manufacturing, farming, ranching and cattle production, and other enterprises related to agriculture. Simplot has major operations in nine countries with products and services available to customers worldwide. Summary The Senior SAP Functional Analyst - FICO / Record-to-Report wil…",
+    "salary_max": 124593.65,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Simplot",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -115.834554,
+    "title": "Sr. SAP Functional Analyst FICO",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Idaho",
+        "Boise County",
+        "Idaho City"
+      ],
+      "display_name": "Idaho City, Boise County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/details/5827934759?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934759",
+    "description": "Job Requisition ID: 57739 Opening Date: 08/04/2026 Closing Date: 08/17/2026 ​Agency: Department of Human Services Class Title: PUBLIC AID ELIGIBILITY ASST - 35825 Skill Option: None Bilingual Option: None Salary: Anticipated Salary: $4,144-$5,429/month ($49,728-$65,148/year) Job Type: Salaried Category: Full Time County: Henry Number of Vacancies: 2 Bargaining Unit Code: RC028 Paraprofessional Human Services Employees, AFSCME Merit Comp Code: ​ This position is a union position; therefore, prov…",
+    "salary_max": 59520.37,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "State of Illinois"
+    },
+    "longitude": -89.92483,
+    "title": "PUBLIC AID ELIGIBILITY ASSISTANT",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Illinois",
+        "Henry County",
+        "Kewanee"
+      ],
+      "display_name": "Kewanee, Henry County"
+    },
+    "latitude": 41.245593,
+    "salary_min": 59520.37,
+    "created": "2026-08-04T11:28:14Z",
+    "category": {
+      "tag": "admin-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Admin Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDc1OSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.wkVZSHnEGAvAVXpcltPwLpgoXlaa1Zdvh-lAuEr3Qi8"
+  },
+  {
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Grand Forks, Grand Forks County",
+      "area": [
+        "US",
+        "North Dakota",
+        "Grand Forks County",
+        "Grand Forks"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 53026.53,
+    "redirect_url": "https://www.adzuna.com/details/5827934744?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934744",
+    "description": "The Simplot Company is a diverse, privately held global food and agriculture company headquartered in Boise, Idaho. We are a true farm-to-table company with an integrated portfolio including food processing and food brands, phosphate mining, fertilizer manufacturing, farming, ranching and cattle production, and other enterprises related to agriculture. Summary The boiler mechanic is a member of the maintenance team, which includes wet end mechanics, packaging mechanics, electricians, process co…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Simplot"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -97.12256,
+    "title": "Boiler Operator (Crew C) Grand Forks",
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 53026.53,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDc0NCIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.F6AcBngDbjVJ_r-PA9fmx1LLtARM6ftdXtMNTwwS9NM",
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 47.87222
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDY3OSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.nEy9Bt4ITH5rInejBFy_uApc4MY69Huv6vtzds5uwx4",
+    "category": {
+      "label": "Manufacturing Jobs",
+      "tag": "manufacturing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 39039.88,
+    "latitude": 44.026553,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Oregon",
+        "Malheur County",
+        "Ontario"
+      ],
+      "display_name": "Ontario, Malheur County"
+    },
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Simplot"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -116.962938,
+    "title": "Raw Receiving Operator (Crew A) Ontario, OR",
+    "salary_max": 39039.88,
+    "description": "The J.R. Simplot Company is a diverse, privately held global food and agriculture company headquartered in Boise, Idaho. We are a true farm-to-table company with an integrated portfolio including food processing and food brands, phosphate mining, fertilizer manufacturing, farming, ranching and cattle production, and other enterprises related to agriculture. Summary This position is responsible for the unloading of trucks as they come into the Plant with raw product. Key Responsibilities Respons…",
+    "id": "5827934679",
+    "redirect_url": "https://www.adzuna.com/details/5827934679?utm_medium=api&utm_source=abfa41a4"
+  },
+  {
+    "latitude": 33.854548,
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 44292.23,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NzIzIn0.EkA-wkcrVHOT8TiVqC5cnXVF9Vjx0YQ-edV620w40nE",
+    "category": {
+      "tag": "customer-services-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Customer Services Jobs"
+    },
+    "salary_max": 44292.23,
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary As a Call Center Representative - Tucker, GA - Hybrid at Gainwell, you can contribute your skills as we harness the power of te…",
+    "redirect_url": "https://www.adzuna.com/details/5827934723?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934723",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Call Center Representative - Tucker, GA - Hybrid",
+    "longitude": -84.217142,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Georgia",
+        "DeKalb County",
+        "Tucker"
+      ],
+      "display_name": "Tucker, DeKalb County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "salary_max": 56112.61,
+    "redirect_url": "https://www.adzuna.com/details/5827934613?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934613",
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary As a Provider Enrollment Business Analyst - Remote WV , you can contribute your skills as we harness the power of technology to…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Provider Enrollment Business Analyst - Remote WV",
+    "longitude": -81.633647,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "West Virginia",
+        "Kanawha County",
+        "Charleston"
+      ],
+      "display_name": "Charleston, Kanawha County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 38.351711,
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 56112.61,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NjEzIn0.ysJT_v8coUSVrTwEx-__iOf0c4w_2er85zAd7raQSRo",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    }
+  },
+  {
+    "latitude": 40.947816,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "admin-jobs",
+      "label": "Admin Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NjM0In0.vx0-M8PxYeJO82J3ZSXgYmgkqlgyEm5wjGQLbaPdAgQ",
+    "salary_min": 50325.26,
+    "created": "2026-08-04T11:28:14Z",
+    "longitude": -90.37124,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "TEAM CLERICAL - GALESBURG",
+    "company": {
+      "display_name": "State of Illinois",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Job Requisition ID: 57822 Opening Date: 08/03/2026 Closing Date: 08/17/2026 Agency: Department of Children and Family Services Class Title: OFFICE ASSOCIATE - 30015 Working Title: TEAM CLERICAL - GALESBURG Skill Option: Keyboarding Bilingual Option: None Salary: Anticipated Starting Salary $4,144/mo; Full Range $4,144/mo - $5,429/mo Job Type: Salaried Category: Full Time County: Knox Number of Vacancies: 1 Bargaining Unit Code: RC014 Clerical Employees, AFSCME This position is a union position;…",
+    "redirect_url": "https://www.adzuna.com/details/5827934634?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934634",
+    "salary_max": 50325.26,
+    "location": {
+      "display_name": "Galesburg, Knox County",
+      "area": [
+        "US",
+        "Illinois",
+        "Knox County",
+        "Galesburg"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1"
+  },
+  {
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Springfield, Sangamon County",
+      "area": [
+        "US",
+        "Illinois",
+        "Sangamon County",
+        "Springfield"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 79239.45,
+    "redirect_url": "https://www.adzuna.com/details/5827934659?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934659",
+    "description": "Job Requisition ID: 57844 BPIS: 07721 Opening Date: 08/03/2026 Closing Date: 08/17/2026 Agency: Department of Healthcare and Family Services Class Title: SENIOR PUBLIC SERVICE ADMIN (40070) Skill Option: Fiscal Management/Accounting/Budget/ Internal Audit/Insurance/Financial Bilingual Option: None Salary: Anticipated starting salary $10,775/mo ; Full salary range $10,775 - $12,775/mo Job Type: Salaried Category: Full Time County: Sangamon Number of Vacancies: 1 Bargaining Unit Code: None Merit …",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "HFS Chief Accountability Officer (SPSA Opt 2)",
+    "longitude": -89.649874,
+    "company": {
+      "display_name": "State of Illinois",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 79239.45,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NjU5In0.h_OBlDm1D07cFhY_hUGXJmnhp139kgxDUO7jz5bW5yE",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 39.799492
+  },
+  {
+    "salary_max": 69242.59,
+    "redirect_url": "https://www.adzuna.com/details/5827934753?utm_medium=api&utm_source=abfa41a4",
+    "description": "Job Requisition ID: 57926 Opening Date: 08/03/2026 Closing Date: 08/17/2026 Agency: Abraham Lincoln Presidential Library and Museum Class Title: HISTORICAL DOCUMENTS CONSERVATOR - 18984 Skill Option: None Bilingual Option: None Salary: Anticipated Starting Salary $4,922monthly; Full Range $4,922 - $6,762 monthly Job Type: Salaried Category: Full Time County: Sangamon Number of Vacancies: 1 Bargaining Unit Code: RC062 Technical Employees, AFSCME Merit Comp Code: This position is a union position…",
+    "id": "5827934753",
+    "company": {
+      "display_name": "State of Illinois",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -89.649874,
+    "title": "HISTORICAL DOCUMENTS CONSERVATOR",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Illinois",
+        "Sangamon County",
+        "Springfield"
+      ],
+      "display_name": "Springfield, Sangamon County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 39.799492,
+    "created": "2026-08-04T11:28:14Z",
+    "salary_min": 69242.59,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDc1MyIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.8VdT781Cr8HyHXpfoNpWRqkeEh2Uki5vbWCuDjliQIs",
+    "category": {
+      "tag": "admin-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Admin Jobs"
+    }
+  },
+  {
+    "salary_min": 29658.85,
+    "created": "2026-08-04T11:28:14Z",
+    "category": {
+      "label": "Energy, Oil & Gas Jobs",
+      "tag": "energy-oil-gas-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDc1MSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.RssNH_z-utfV-QUuw2-nD3ID2X4YZ4vplLGIHG-zLok",
+    "redirect_url": "https://www.adzuna.com/details/5827934751?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934751",
+    "description": "Perdue AgriBusiness is an international agricultural products and services company that handles agricultural commodities and a diverse portfolio of products and businesses. It is part of Perdue Farms, a fourth-generation, family-owned food and agricultural business deeply rooted in tradition yet with a forward-thinking mindset. We believe that success starts with our people, and our culture is built on a foundation of teamwork, integrity, and respect, where every voice matters and everyone is e…",
+    "salary_max": 29658.85,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Seasonal Grain Operator",
+    "company": {
+      "display_name": "Perdue Farms",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "US",
+      "area": [
+        "US"
+      ]
+    }
+  },
+  {
+    "created": "2026-08-04T11:28:13Z",
+    "salary_min": 61690.68,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDUzMyIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.-WNjhW-AI26fxIIZf_l_ubu5JRNsHnHXWvTeaK_fJwE",
+    "category": {
+      "tag": "consultancy-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Consultancy Jobs"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "US",
+      "area": [
+        "US"
+      ]
+    },
+    "salary_max": 61690.68,
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary As a Associate Professional Quality at Gainwell, you will be responsible for monitoring and evaluating voice and non-voice inte…",
+    "redirect_url": "https://www.adzuna.com/details/5827934533?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934533",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Gainwell Technologies LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Associate Professional Quality"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Gainwell Technologies LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Batch Developer (UNIX/LINUX/C/SQL)",
+    "description": "Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have…",
+    "redirect_url": "https://www.adzuna.com/details/5827934415?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934415",
+    "salary_max": 50715.52,
+    "location": {
+      "area": [
+        "US"
+      ],
+      "display_name": "US",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NDE1In0.jY8LcXXBt0b3VqgT9N3vjagLZrwkKz0QpYNUl3guM_4",
+    "salary_min": 50715.52,
+    "created": "2026-08-04T11:28:13Z"
+  },
+  {
+    "salary_min": 35306.04,
+    "created": "2026-08-04T11:28:13Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "manufacturing-jobs",
+      "label": "Manufacturing Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NTQ1In0.V_AdAJJ6kK-s1CQ8lmBABnhP467PqjSC6sAFaajoyAc",
+    "latitude": 47.87222,
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Grand Forks, Grand Forks County",
+      "area": [
+        "US",
+        "North Dakota",
+        "Grand Forks County",
+        "Grand Forks"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5827934545",
+    "redirect_url": "https://www.adzuna.com/details/5827934545?utm_medium=api&utm_source=abfa41a4",
+    "description": "The Simplot Company is a diverse, privately held global food and agriculture company headquartered in Boise, Idaho. We are a true farm-to-table company with an integrated portfolio including food processing and food brands, phosphate mining, fertilizer manufacturing, farming, ranching and cattle production, and other enterprises related to agriculture. Summary This job is responsible for keeping food surfaces and processing equipment and assigned work area in a food quality sanitary condition. …",
+    "salary_max": 35306.04,
+    "longitude": -97.12256,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Sanitation Technician (Crew A) Grand Forks",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Simplot"
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Grand Forks, Grand Forks County",
+      "area": [
+        "US",
+        "North Dakota",
+        "Grand Forks County",
+        "Grand Forks"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "longitude": -97.12256,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Simplot"
+    },
+    "title": "Forklift Line Service (Crew C) Grand Forks",
+    "description": "The Simplot Company is a diverse, privately held global food and agriculture company headquartered in Boise, Idaho. We are a true farm-to-table company with an integrated portfolio including food processing and food brands, phosphate mining, fertilizer manufacturing, farming, ranching and cattle production, and other enterprises related to agriculture. Summary This job is responsible for operating material handling equipment in a safe manner for the purpose of moving, locating, stacking and cou…",
+    "redirect_url": "https://www.adzuna.com/details/5827934555?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934555",
+    "salary_max": 47756.59,
+    "category": {
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDU1NSIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.cSAEaQQSeUAYAKYA21w5wpKeJS_g0gLXyRc0Y0HUiqs",
+    "salary_min": 47756.59,
+    "created": "2026-08-04T11:28:13Z",
+    "latitude": 47.87222
+  },
+  {
+    "location": {
+      "display_name": "US",
+      "area": [
+        "US"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Appeals Processor- Anchorage, AK (Hybrid)",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "salary_max": 43344.59,
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary As Appeals Processor- Anchorage, AK (Hybrid) , you can contribute your skills as we harness the power of technology to help our…",
+    "id": "5827934527",
+    "redirect_url": "https://www.adzuna.com/details/5827934527?utm_medium=api&utm_source=abfa41a4",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NTI3In0.py8I5C1zeEEcuZwoVXyyEfB50iAO_pcxEKSfqqNtH_4",
+    "category": {
+      "label": "Scientific & QA Jobs",
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-08-04T11:28:13Z",
+    "salary_min": 43344.59
+  },
+  {
+    "location": {
+      "display_name": "US",
+      "area": [
+        "US"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "company": {
+      "display_name": "Gainwell Technologies LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Proposal Operations Specialist",
+    "redirect_url": "https://www.adzuna.com/details/5827934573?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934573",
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary The Proposal Operations Specialist is primarily responsible for managing proposal production and operational processes while pr…",
+    "salary_max": 67942.38,
+    "category": {
+      "tag": "energy-oil-gas-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Energy, Oil & Gas Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDU3MyIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.nuzFaHd3XoRdx484_gw0yObuEQFVPa-6QKsRzFI8qls",
+    "salary_min": 67942.38,
+    "created": "2026-08-04T11:28:13Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDU4NyIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.KSFm_k3ZflKZsFUzUblBrqXPWADJ0xduiN8f3Na-LKQ",
+    "category": {
+      "label": "Scientific & QA Jobs",
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-08-04T11:28:13Z",
+    "salary_min": 52407.56,
+    "latitude": 30.448378,
+    "location": {
+      "display_name": "Baton Rouge, East Baton Rouge Parish",
+      "area": [
+        "US",
+        "Louisiana",
+        "East Baton Rouge Parish",
+        "Baton Rouge"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "longitude": -91.188708,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "title": "Provider Enrollment Analyst - Baton Rouge, LA",
+    "salary_max": 52407.56,
+    "id": "5827934587",
+    "redirect_url": "https://www.adzuna.com/details/5827934587?utm_medium=api&utm_source=abfa41a4",
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary As a Provider Enrollment Analyst , you can contribute your skills as we harness the power of technology to help our clients imp…"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDM5MyIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.7bACuzDPMwFZe8FjBttck3DA-IilbZ6qJAAZjQJAQoE",
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "created": "2026-08-04T11:28:13Z",
+    "salary_min": 105480.49,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US"
+      ],
+      "display_name": "US"
+    },
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Experienced Programmer Analyst",
+    "salary_max": 105480.49,
+    "description": "Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have…",
+    "redirect_url": "https://www.adzuna.com/details/5827934393?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934393"
+  },
+  {
+    "location": {
+      "display_name": "US",
+      "area": [
+        "US"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "title": "Cloud Application Support",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5827934414?utm_medium=api&utm_source=abfa41a4",
+    "description": "Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have…",
+    "id": "5827934414",
+    "salary_max": 71207.28,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NDE0In0.3z3b3EZsBtzS-XaVI2MHW1glesRDRKz4B9zrltxzRd8",
+    "salary_min": 71207.28,
+    "created": "2026-08-04T11:28:13Z"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "title": "Senior C/Unix Batch Developer (Healthcare Claims)",
+    "description": "Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have…",
+    "redirect_url": "https://www.adzuna.com/details/5827934526?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934526",
+    "salary_max": 72081.01,
+    "location": {
+      "display_name": "US",
+      "area": [
+        "US"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NTI2In0.B5eKXBwICEsgIwkRZC3rcmK48T5JhqJ7fgoVKPOkbWw",
+    "salary_min": 72081.01,
+    "created": "2026-08-04T11:28:13Z"
+  },
+  {
+    "created": "2026-08-04T11:28:13Z",
+    "salary_min": 91389.5,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NTY0In0.BrJ7Psl1pBDnA2_7tkaYPPiVgpZKm4VH_-AAdc8lyJ0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "US",
+      "area": [
+        "US"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 91389.5,
+    "redirect_url": "https://www.adzuna.com/details/5827934564?utm_medium=api&utm_source=abfa41a4",
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary The ​Manager Mainframe Production Control & DBA at Gainwell, l eads production control and database administration operations s…",
+    "id": "5827934564",
+    "title": "Manager Mainframe Production Control & DBA",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Gainwell Technologies LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "created": "2026-08-04T11:28:13Z",
+    "salary_min": 50527.87,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NTgzIn0.bwxnkD26wEMPYTJnOjoO6a9Wmz7pCAdPcxX6Mb7mIpY",
+    "category": {
+      "label": "Scientific & QA Jobs",
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 50527.87,
+    "redirect_url": "https://www.adzuna.com/details/5827934583?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934583",
+    "description": "It takes great medical minds to create powerful solutions that solve some of healthcare’s most complex challenges. Join us and put your expertise to work in ways you never imagined possible. We know you’ve honed your career in a fast-moving medical environment. While Gainwell operates with a sense of urgency, you’ll have the opportunity to work more flexible hours. And working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values wor…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "DRG Quality Advisor Nurse- Remote",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "US",
+      "area": [
+        "US"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US"
+      ],
+      "display_name": "US"
+    },
+    "salary_max": 127586.74,
+    "redirect_url": "https://www.adzuna.com/details/5827934458?utm_medium=api&utm_source=abfa41a4",
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary The Dental Services and Clinical Policy Manager is responsible for defining, managing, analyzing and improving dental consultan…",
+    "id": "5827934458",
+    "title": "Dental Services and Clinical Policy Manager (Remote in California)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "created": "2026-08-04T11:28:13Z",
+    "salary_min": 127586.74,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDQ1OCIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.hUy87Jn2ne-nlkVTUzQbyS0YOypfpBmlzs07heUYqjQ",
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs"
+    }
+  },
+  {
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary As a Pharmacy Test Manager at Gainwell, you can contribute your skills as we harness the power of technology to help our client…",
+    "redirect_url": "https://www.adzuna.com/details/5827934554?utm_medium=api&utm_source=abfa41a4",
+    "id": "5827934554",
+    "salary_max": 71289.84,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gainwell Technologies LLC"
+    },
+    "title": "Pharmacy Test Manager",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "US",
+      "area": [
+        "US"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_min": 71289.84,
+    "created": "2026-08-04T11:28:13Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0NTU0In0.skZ55xO4BsDbG1ZaDyhg3YgUTgBfeHAGvA60VCY4Ups"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzkzNDU4NiIsInMiOiJDcE82WUJtUThSRzVKclludElCcGFRIn0.OrZn9G3mQK-iL29jGv2zhZDscDUWahKFYopgc4ppHS4",
+    "category": {
+      "tag": "consultancy-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Consultancy Jobs"
+    },
+    "created": "2026-08-04T11:28:13Z",
+    "salary_min": 64996.67,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "US",
+      "area": [
+        "US"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Customer Experience (CX) Mobilization - PM/BA",
+    "company": {
+      "display_name": "Gainwell Technologies LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 64996.67,
+    "redirect_url": "https://www.adzuna.com/details/5827934586?utm_medium=api&utm_source=abfa41a4",
+    "description": "Great companies need great teams to propel their operations. Join the group that solves business challenges and enhances the way we work and grow. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values your contributions and puts a premium on work flexibility, learning, and career development. Summary As a Customer Experience (CX) Mobilization - PM/BA at Gainwell, you can contribute your skills as we harness the power of techn…",
+    "id": "5827934586"
+  },
+  {
+    "salary_min": 92804.07,
+    "created": "2026-08-04T11:28:13Z",
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ3BPNllCbVE4Ukc1SnJZbnRJQnBhUSIsImkiOiI1ODI3OTM0Mzk2In0.OBalczi13WlLyLocR-4HJhn0H4FCUWwzHN3RfhKADt8",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "US",
+      "area": [
+        "US"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5827934396",
+    "description": "Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have…",
+    "redirect_url": "https://www.adzuna.com/details/5827934396?utm_medium=api&utm_source=abfa41a4",
+    "salary_max": 92804.07,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Gainwell Technologies LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "PMO Lead"
+  }
+]
