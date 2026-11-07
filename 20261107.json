@@ -1,0 +1,1674 @@
+[
+  {
+    "location": {
+      "display_name": "Arvada, Jefferson County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Colorado",
+        "Jefferson County",
+        "Arvada"
+      ]
+    },
+    "title": "Mobile Associate, Store-in-Store - Retail Sales",
+    "latitude": 39.790757,
+    "created": "2026-11-07T12:40:46Z",
+    "redirect_url": "https://www.adzuna.com/details/5957265657?utm_medium=api&utm_source=abfa41a4",
+    "description": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees! Job Overview The secret to our success is an Un-carrie…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY1NjU3In0.vMISjI_LO2d7_crdcijkH8JEl6GPAazoLVxLVwfHehw",
+    "salary_max": 93481.55,
+    "longitude": -105.084969,
+    "salary_is_predicted": "1",
+    "id": "5957265657",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 93481.55,
+    "contract_time": "part_time",
+    "category": {
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs"
+    },
+    "company": {
+      "display_name": "T-Mobile USA, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "id": "5957265624",
+    "salary_is_predicted": "1",
+    "salary_min": 83888.04,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "part_time",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Sales Jobs",
+      "tag": "sales-jobs"
+    },
+    "company": {
+      "display_name": "T-Mobile USA, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 30.097162,
+    "title": "Mobile Associate, Store-in-Store - Retail Sales",
+    "created": "2026-11-07T12:40:44Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Tomball, Harris County",
+      "area": [
+        "US",
+        "Texas",
+        "Harris County",
+        "Tomball"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com/details/5957265624?utm_medium=api&utm_source=abfa41a4",
+    "description": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees! Job Overview The secret to our success is an Un-carrie…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NTYyNCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.CmmQcY0Ip9WxziRZ8hOXabrvyiH2Yh76aK9VBRzOGIk",
+    "longitude": -95.616055,
+    "salary_max": 83888.04
+  },
+  {
+    "description": "Doctor of Medicine | Emergency Medicine Location: Dubois, PA Employer: WhiteCoat Locums Pay: $290 per hour Shift Information: 3 days x 12 hours Start Date: ASAP About the Position Emergency Medicine Physician - Locum Tenens - Pennsylvania Position Overview Seeking a Board-Certified Emergency Medicine Physician (MD/DO) for a locum tenens opportunity across multiple hospital locations in Pennsylvania, beginning November 2026. The physician will provide emergency care to patients of all ages, incl…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDQwNSIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.e0756F_hTsn2eabGjIJ8uJVP0enPgNdH9tVIVgvfwjE",
+    "longitude": -78.747463,
+    "salary_max": 603200,
+    "latitude": 41.127056,
+    "created": "2026-11-07T12:39:17Z",
+    "title": "Locum Physician (MD/DO) - Emergency Medicine - $290 per hour in Dubois, PA",
+    "location": {
+      "area": [
+        "US",
+        "Pennsylvania",
+        "Clearfield County",
+        "Du Bois"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Du Bois, Clearfield County"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264405?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=4DE6F9709DE74FB1560A9249D7EC3C7271FD39C9",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "display_name": "WhiteCoat Locums",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5957264405",
+    "salary_is_predicted": "0",
+    "contract_type": "contract",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 603200
+  },
+  {
+    "contract_type": "contract",
+    "id": "5957264403",
+    "salary_is_predicted": "1",
+    "salary_min": 100876.02,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Wilderness Medical Staffing"
+    },
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Michigan"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Michigan, US"
+    },
+    "title": "Locum Physician Assistant (PA) - Emergency Medicine in Michigan",
+    "latitude": 44.070506,
+    "created": "2026-11-07T12:39:17Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264403?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=2FFA912EE0665B5F541D7F7FB7885A744D3CDCD0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDQwMyIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.NJz1ECVOKwuUTcBekYxrxb1MHngM2YTei6F2jplZi1M",
+    "description": "Physician Assistant | Emergency Medicine Location: Michigan Employer: Wilderness Medical Staffing Pay: Competitive weekly pay (inquire for details) Shift Information: 4 days x 10 hours Start Date: ASAP About the Position 06518A - Locum Tenens Nurse Practitioner (NP) or Physician Assistant (PA) needed in the Upper Peninsula of Michigan - Emergency Medicine Location: Rural Upper Peninsula, Michigan Job Type: 1099 Locum Tenens Contract Date Range: Various Shifts from December 28th, 2028 - March 31…",
+    "salary_max": 100876.02,
+    "longitude": -85.197741
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 239200,
+    "salary_is_predicted": "0",
+    "id": "5957264400",
+    "contract_type": "contract",
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "WhiteCoat Locums"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264400?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=514E3A6AD8C91025640EDE55DA1CEC65AC6777EA",
+    "latitude": 48.746963,
+    "title": "Locum Physician Assistant (PA) - Cardiology - Electrophysiology - $115 per hour in Bellingham, WA",
+    "created": "2026-11-07T12:39:17Z",
+    "location": {
+      "area": [
+        "US",
+        "Washington",
+        "Whatcom County",
+        "Bellingham"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bellingham, Whatcom County"
+    },
+    "longitude": -122.49594,
+    "salary_max": 239200,
+    "description": "Physician Assistant | Cardiology - Electrophysiology Location: Bellingham, WA Employer: WhiteCoat Locums Pay: $115 per hour Shift Information: Days - 4 days x 10 hours Start Date: ASAP About the Position Electrophysiology Physician Assistant - Locum Tenens - Bellingham, WA Position Overview Seeking an experienced Physician Assistant (PA) specializing in Cardiology and Electrophysiology (EP) for a locum tenens opportunity in Bellingham, Washington, beginning December 1, 2026. The provider will d…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0NDAwIn0.h57xxPfC5tCF7_c0eOQGRZcSTy57NA450xrJHJHY-9k"
+  },
+  {
+    "description": "Nurse Practitioner | Gastroenterology Location: Potsdam, NY Employer: WhiteCoat Locums Pay: $130 per hour Shift Information: 5 days x 8 hours Start Date: ASAP About the Position Gastroenterology Nurse Practitioner - Locum Tenens - Potsdam, NY Position Overview Seeking an experienced, Board-Certified Nurse Practitioner (NP) specializing in Gastroenterology for a full-time locum tenens opportunity in Potsdam, New York, beginning January 4, 2027. The provider will deliver comprehensive gastroenter…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDQwNCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.5XKN3ARTBvavXVFF03tQ1LUKlcU0Mw7wgtBmnnjTbHo",
+    "salary_max": 270400,
+    "longitude": -74.96994,
+    "location": {
+      "display_name": "Potsdam, Saint Lawrence County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "New York",
+        "Saint Lawrence County",
+        "Potsdam"
+      ]
+    },
+    "created": "2026-11-07T12:39:17Z",
+    "latitude": 44.663685,
+    "title": "Locum Nurse Practitioner (NP) - Gastroenterology - $130 per hour in Potsdam, NY",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264404?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=4947CDE2336FA80D76C6D1B44510D5D115E5A607",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "display_name": "WhiteCoat Locums",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5957264404",
+    "salary_is_predicted": "0",
+    "contract_type": "contract",
+    "salary_min": 270400,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264406?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=34AE9166B16C3165352C94972B5762518C3581FF",
+    "title": "Locum Nurse Practitioner (NP) - Emergency Medicine in Michigan",
+    "latitude": 44.070506,
+    "created": "2026-11-07T12:39:17Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Michigan, US",
+      "area": [
+        "US",
+        "Michigan"
+      ]
+    },
+    "longitude": -85.197741,
+    "salary_max": 102114.66,
+    "description": "Nurse Practitioner | Emergency Medicine Location: Michigan Employer: Wilderness Medical Staffing Pay: Competitive weekly pay (inquire for details) Shift Information: 4 days x 10 hours Start Date: ASAP About the Position 06518A - Locum Tenens Nurse Practitioner (NP) or Physician Assistant (PA) needed in the Upper Peninsula of Michigan - Emergency Medicine Location: Rural Upper Peninsula, Michigan Job Type: 1099 Locum Tenens Contract Date Range: Various Shifts from December 28th, 2028 - March 31s…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0NDA2In0.i7G44aYgCihNP4Vsos-5KtaG-bWIzScBX3Wy1teNz-M",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 102114.66,
+    "id": "5957264406",
+    "salary_is_predicted": "1",
+    "contract_type": "contract",
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Wilderness Medical Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "contract_type": "contract",
+    "salary_is_predicted": "0",
+    "id": "5957264398",
+    "salary_min": 416000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "WhiteCoat Locums"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Minnesota",
+        "Brown County",
+        "New Ulm"
+      ],
+      "display_name": "New Ulm, Brown County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 44.28294,
+    "title": "Locum Physician (MD/DO) - Hospitalist - $200 per hour in New Ulm, MN",
+    "created": "2026-11-07T12:39:17Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264398?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=2EF647EC4C314F5E2CA441B8919502141FF65D5A",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0Mzk4In0.imDS5C16KHzMJakkblQ7sHz0OyUf86JuMCTQBOzJyhw",
+    "description": "Doctor of Medicine | Hospitalist Location: New Ulm, MN Employer: WhiteCoat Locums Pay: $200 per hour Start Date: ASAP About the Position Hospitalist Physician - Locum Tenens - New Ulm, MN Position Overview Seeking three Board-Certified Hospitalist Physicians (MD/DO) for a locum tenens opportunity in New Ulm, Minnesota, beginning January 11, 2027. The physicians will provide comprehensive inpatient medical care in a 25-bed critical access hospital with an Adult Level IV trauma designation. Respo…",
+    "salary_max": 416000,
+    "longitude": -94.45932
+  },
+  {
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "display_name": "VISTA Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 239945.8,
+    "contract_time": "full_time",
+    "salary_is_predicted": "1",
+    "id": "5957264197",
+    "contract_type": "contract",
+    "longitude": -117.252502,
+    "salary_max": 239945.8,
+    "description": "Doctor of Medicine | Radiology - General/Other Location: La Jolla, CA Employer: VISTA Staffing Pay: Competitive weekly pay (inquire for details) Start Date: 2/1/2027 About the Position Are you a Thoracic Radiology physician searching for your next exciting locum tenens opportunity? This position with one of VISTA's healthcare partners in California might just be the opportunity for you! Opportunity Highlights Schedule: No fixed schedule, work anytime to address backlog with no shift limits Job …",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MTk3In0.GYylXFTyBad7sUdSYPIhiP1uR_q2nuduPW279OyFOKU",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264197?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=A5D70543D38A3EE03F3609D0FA0622306121AE31",
+    "latitude": 32.839449,
+    "created": "2026-11-07T12:38:51Z",
+    "title": "Locum Physician (MD/DO) - Radiology - General/Other in La Jolla, CA",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "La Jolla, San Diego County",
+      "area": [
+        "US",
+        "California",
+        "San Diego County",
+        "La Jolla"
+      ]
+    }
+  },
+  {
+    "company": {
+      "display_name": "VISTA Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "contract_type": "contract",
+    "salary_is_predicted": "1",
+    "id": "5957264193",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 401225.5,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MTkzIn0.BcTL5xWAn1YbyKjPCeZjiJPzY2B1_8q8uvZ7OyvJpl8",
+    "description": "Doctor of Medicine | Cardiology - General/Other Location: Durango, CO Employer: VISTA Staffing Pay: Competitive weekly pay (inquire for details) Start Date: 12/21/2026 About the Position Are you an Interventional Cardiology physician searching for your next locum tenens opportunity? This position with one of VISTA's healthcare partners in Colorado might be the perfect fit for you! Opportunity Highlights Schedule: 24-hour call 7a-7a Job Setting: Inpatient; Trauma Level III Types of Cases: Genera…",
+    "longitude": -107.85416,
+    "salary_max": 401225.5,
+    "latitude": 37.311376,
+    "created": "2026-11-07T12:38:51Z",
+    "title": "Locum Physician (MD/DO) - Cardiology - General/Other in Durango, CO",
+    "location": {
+      "area": [
+        "US",
+        "Colorado",
+        "La Plata County",
+        "College Heights Durango"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "College Heights Durango, La Plata County"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264193?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=B437E38869D4D3F2CFC0252859DFFA16E33F8214"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264206?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=478B3B286E78E3D92C10B77A47D7399AC7E8DA7C",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Minnesota, US",
+      "area": [
+        "US",
+        "Minnesota"
+      ]
+    },
+    "latitude": 45.509564,
+    "created": "2026-11-07T12:38:51Z",
+    "title": "Physician Assistant (PA) - Cardiology - Interventional in Minnesota",
+    "salary_max": 115898.16,
+    "longitude": -94.437764,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDIwNiIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0._9TQLJmyox-MXK4fDrHPWwgLHKgMJifMtdWT7trys-U",
+    "description": "Physician Assistant | Cardiology - Interventional Location: Minnesota Employer: ARR Healthcare Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Enterprise Medical Recruiting is assisting a nonprofit health system in Duluth, Minnesota, with the recruitment of a fellowship-trained Pain Management Physician who is board-certified or board-eligible in Pain Management and Anesthesiology. Join an established interventional pain practice alongside another physician…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 115898.16,
+    "salary_is_predicted": "1",
+    "id": "5957264206",
+    "company": {
+      "display_name": "ARR Healthcare",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "company": {
+      "display_name": "LocumTenens.com",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 254006.25,
+    "salary_is_predicted": "1",
+    "id": "5957264195",
+    "contract_type": "contract",
+    "salary_max": 254006.25,
+    "longitude": -71.45631,
+    "description": "Doctor of Medicine | Anesthesiology - General/Other Location: Massachusetts Employer: LocumTenens.com Pay: Competitive weekly pay (inquire for details) Shift Information: 3 days x 12 hours Start Date: ASAP About the Position This Job at a Glance Job Reference Id: ORD-229031-MD-MA Title: MD Dates Needed: December - Ongoing Shift Type: Day Shift; Call Assignment Type: Inpatient Call Required: Yes Board Certification Required: Yes Job Duration: Locums About the Facility This inpatient facility mai…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDE5NSIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.rOsOfeZHEovGXzMLNxWwrjfZla0TfH-8s5oGwcaF0Yo",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264195?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=2411E164715785766010226D19D3EC4688950823",
+    "location": {
+      "area": [
+        "US",
+        "Massachusetts"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Massachusetts, US"
+    },
+    "title": "Locum Physician (MD/DO) - Anesthesiology - General/Other in Massachusetts",
+    "latitude": 42.108919,
+    "created": "2026-11-07T12:38:51Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MjA3In0.HQioB0-SF4yjyiFodR3MEtOjCmRGz4SrrzZRR8iP42g",
+    "description": "Doctor of Medicine | Otolaryngology Location: Montana Employer: ARR Healthcare Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Join a growing healthcare organization in beautiful Western Montana and enjoy a rewarding bread-and-butter otolaryngology practice, significant autonomy, and an exceptional work-life balance. This is an opportunity to step into an established patient base while helping shape and grow the ENT program around your clinical interests. C…",
+    "salary_max": 118738.52,
+    "longitude": -112.010777,
+    "location": {
+      "area": [
+        "US",
+        "Montana",
+        "Jefferson County",
+        "Montana"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Montana, Jefferson County"
+    },
+    "latitude": 46.439645,
+    "title": "Physician (MD/DO) - Otolaryngology in Montana",
+    "created": "2026-11-07T12:38:51Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264207?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=538D5FA4D37C6B1C8E849E3E678A49E662C3CAD0",
+    "company": {
+      "display_name": "ARR Healthcare",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "1",
+    "id": "5957264207",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 118738.52
+  },
+  {
+    "salary_is_predicted": "1",
+    "id": "5957264192",
+    "contract_type": "contract",
+    "salary_min": 271391.12,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "display_name": "VISTA Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Locum Physician (MD/DO) - Cardiology - General/Other in Mason City, IA",
+    "latitude": 43.149083,
+    "created": "2026-11-07T12:38:51Z",
+    "location": {
+      "area": [
+        "US",
+        "Iowa",
+        "Cerro Gordo County",
+        "Mason City"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mason City, Cerro Gordo County"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264192?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=9CC847C877E02D2F68C1146837B76839B53AB553",
+    "description": "Doctor of Medicine | Cardiology - General/Other Location: Mason City, IA Employer: VISTA Staffing Pay: Competitive weekly pay (inquire for details) Start Date: 1/1/2027 About the Position Are you a Cardiology physician searching for your next locum tenens opportunity? This position with one of VISTA's healthcare partners in Iowa might be the perfect fit for you! Opportunity Highlights Schedule: Monday-Thursday 8:00am-5:00pm, Friday 8:00am-12:30pm, weeknight call, 24-hour weekend call Job Settin…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MTkyIn0.L5-P6X4fYU5TzbJlmTVj9Fj9XIx60P84yvObD_b7Ae8",
+    "longitude": -93.200318,
+    "salary_max": 271391.12
+  },
+  {
+    "description": "Certified Registered Nurse Anesthetist | Anesthesiology - General/Other Location: Wisconsin Employer: ARR Healthcare Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Enterprise Medical Recruiting is assisting a nonprofit health system in Wisconsin with the recruitment of a Certified Registered Nurse Anesthetist (CRNA) to join its collaborative anesthesia team in Rhinelander. This opportunity offers flexible scheduling, shift-based compensation with additiona…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MjE1In0.TtQJjEHmnDmand66w-J4rQ8jThaGtfIEM9HGo8bHn18",
+    "salary_max": 181391.47,
+    "longitude": -89.77308,
+    "location": {
+      "area": [
+        "US",
+        "Wisconsin"
+      ],
+      "display_name": "Wisconsin, US",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 44.391021,
+    "created": "2026-11-07T12:38:51Z",
+    "title": "Certified Registered Nurse Anesthetist (CRNA) - Anesthesiology - General/Other in Wisconsin",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264215?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=4912A8E76D5F207F39326A9F9C03E98A24593101",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ARR Healthcare"
+    },
+    "id": "5957264215",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 181391.47
+  },
+  {
+    "contract_type": "contract",
+    "salary_is_predicted": "1",
+    "id": "5957264208",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 239766.23,
+    "company": {
+      "display_name": "VISTA Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 47.611679,
+    "title": "Locum Physician (MD/DO) - Hematology and Oncology in Seattle, WA",
+    "created": "2026-11-07T12:38:51Z",
+    "location": {
+      "area": [
+        "US",
+        "Washington",
+        "King County",
+        "Times Square"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Times Square, King County"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264208?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=9BEDF533032333B378D5B700E7D05CA7CB33DA15",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MjA4In0.6vv9fZ8iswan12NL9x5JWLlUNP5jL2VBBV84m9YYjKI",
+    "description": "Doctor of Medicine | Hematology and Oncology Location: Seattle, WA Employer: VISTA Staffing Pay: Competitive weekly pay (inquire for details) Start Date: 1/1/2027 About the Position Are you a Hematology/Oncology physician searching for your next locum tenens opportunity? This position with one of VISTA's healthcare partners in Washington might be the perfect fit for you! Opportunity Highlights Schedule: Full Time, Monday-Friday, 8:00am-5:00pm, no call, no weekends Job Setting: Outpatient Types …",
+    "longitude": -122.333261,
+    "salary_max": 239766.23
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264204?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=B4BA632BFD70F15167D0AC297C3BDC5FA46226AC",
+    "latitude": 35.631186,
+    "title": "Locum Physician (MD/DO) - Anesthesiology - General/Other in North Carolina",
+    "created": "2026-11-07T12:38:51Z",
+    "location": {
+      "display_name": "North Carolina, US",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "North Carolina"
+      ]
+    },
+    "longitude": -79.472486,
+    "salary_max": 253005.36,
+    "description": "Doctor of Medicine | Anesthesiology - General/Other Location: North Carolina Employer: All Medical Personnel Pay: Competitive weekly pay (inquire for details) Contract Duration: 101 Weeks Start Date: ASAP About the Position Job Title Anesthesiologist Location Wilmington, NC | Acute Care Schedule / Job Type Contract | Full-Time | 13-Week Assignment | Monday–Friday, 7:00 AM–3:00 PM or 7:00 AM–5:00 PM | 10-Hour Shifts, 5 Days/Week Key Responsibilities Provide anesthesiology supervision services ac…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDIwNCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.YV-Xqfc9u8PWd6696IRpzkxjQnwn-Q4_HhNOhZfXQIE",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 253005.36,
+    "salary_is_predicted": "1",
+    "id": "5957264204",
+    "contract_type": "contract",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "display_name": "All Medical Personnel",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "salary_is_predicted": "1",
+    "id": "5957264202",
+    "contract_type": "contract",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 323167.3,
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "display_name": "VISTA Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Cherry Grove, Clermont County",
+      "area": [
+        "US",
+        "Ohio",
+        "Clermont County",
+        "Cherry Grove"
+      ]
+    },
+    "latitude": 39.070712,
+    "title": "Locum Physician (MD/DO) - Cardiology - General/Other in Cincinnati, OH",
+    "created": "2026-11-07T12:38:51Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264202?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=BD323641871753EBAE68756C972A66F87D77FFB7",
+    "description": "Doctor of Medicine | Cardiology - General/Other Location: Cincinnati, OH Employer: VISTA Staffing Pay: Competitive weekly pay (inquire for details) Start Date: 1/1/2027 About the Position Are you an Interventional Cardiology physician searching for your next exciting locum tenens opportunity? This position with one of VISTA's healthcare partners in Ohio might just be the opportunity for you! Opportunity Highlights Schedule: 730am-5pm plus call Job Setting: Hospital based inpatient 80%, clinic 2…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MjAyIn0.NzFCyNVZs5KsS7Lc_W8H6EJMkTymlMvkBkmkAx2zuRI",
+    "salary_max": 323167.3,
+    "longitude": -84.324141
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264214?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=D7EF58FCA6D20991DF6D239EB240B74B9C5EC742",
+    "location": {
+      "area": [
+        "US",
+        "Wisconsin"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wisconsin, US"
+    },
+    "title": "Certified Registered Nurse Anesthetist (CRNA) - Anesthesiology - General/Other in Wisconsin",
+    "latitude": 44.391021,
+    "created": "2026-11-07T12:38:51Z",
+    "salary_max": 152282.66,
+    "longitude": -89.77308,
+    "description": "Certified Registered Nurse Anesthetist | Anesthesiology - General/Other Location: Wisconsin Employer: ARR Healthcare Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Enterprise Medical Recruiting is assisting a nonprofit health system in Wisconsin with the recruitment of a Certified Registered Nurse Anesthetist (CRNA) to join its collaborative anesthesia team in Wisconsin Rapids. This is an excellent opportunity to work in an MD-directed practice alongside s…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDIxNCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.pZZCLX6m3MSH4KGBO3W1P9e_d2bjJ0tu6d_Pf2SqTl8",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 152282.66,
+    "id": "5957264214",
+    "salary_is_predicted": "1",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ARR Healthcare"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MjEzIn0.OWwPOslgqyXQdv9nGA-U4apsu4yM049DUOs-gn75C7I",
+    "description": "Doctor of Medicine | Anesthesiology - Cardiac Location: Wisconsin Employer: ARR Healthcare Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Enterprise Medical Recruiting is assisting a nonprofit health system in Wisconsin with the recruitment of an Anesthesiologist to join its team in Rhinelander. This is an excellent opportunity to work with an experienced OR team in a supportive hospital environment while enjoying a broad scope of bread-and-butter anesthes…",
+    "longitude": -89.77308,
+    "salary_max": 148550.88,
+    "latitude": 44.391021,
+    "title": "Physician (MD/DO) - Anesthesiology - Cardiac in Wisconsin",
+    "created": "2026-11-07T12:38:51Z",
+    "location": {
+      "area": [
+        "US",
+        "Wisconsin"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wisconsin, US"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264213?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=EB78008BF3D538557D24CA2F92B2188E790B1268",
+    "company": {
+      "display_name": "ARR Healthcare",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "id": "5957264213",
+    "salary_is_predicted": "1",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 148550.88
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "display_name": "All Star Healthcare Solutions",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "id": "5957264201",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 158558.95,
+    "description": "Doctor of Medicine | Hospitalist Location: South Carolina Employer: All Star Healthcare Solutions Pay: Competitive weekly pay (inquire for details) Shift Information: Days Contract Duration: 303 Days Start Date: 1/1/2027 About the Position Specialty: Hospitalist Additional Information Coverage Need: LTAC Hospitalist Medicine coverage Schedule: ASAP – ongoing DAYS: 7a-5p Need providers avail 5 shifts/month Clinical Information: LTAC Hospitalist Medicine coverage Daily average census per provider…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDIwMSIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.hUUcCht8S8WYKk4VKO5Fk1_qa3nbak2gPzbD4AwqOyo",
+    "longitude": -80.93462,
+    "salary_max": 158558.95,
+    "title": "Locum Physician (MD/DO) - Hospitalist in South Carolina",
+    "latitude": 33.909477,
+    "created": "2026-11-07T12:38:51Z",
+    "location": {
+      "display_name": "South Carolina, US",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "South Carolina"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264201?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=9AD67221A2BCD2F053425FDF22F2459DDF460854"
+  },
+  {
+    "contract_type": "contract",
+    "id": "5957264198",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 426177.9,
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "VISTA Staffing"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 41.331726,
+    "title": "Locum Physician (MD/DO) - Anesthesiology - General/Other in Omaha, NE",
+    "created": "2026-11-07T12:38:51Z",
+    "location": {
+      "area": [
+        "US",
+        "Nebraska",
+        "Douglas County",
+        "Benson"
+      ],
+      "display_name": "Benson, Douglas County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264198?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=F35243E7474BF18858C664DF376249A97C227188",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MTk4In0.LVbtxE4jVEfKnmApeHg3Sv1QgB0-Wx0cKUr4768g5fw",
+    "description": "Doctor of Medicine | Anesthesiology - General/Other Location: Omaha, NE Employer: VISTA Staffing Pay: Competitive weekly pay (inquire for details) Start Date: 1/1/2027 About the Position Are you an Anesthesiology physician searching for your next locum tenens opportunity? This position with one of VISTA's healthcare partners in Nebraska might be the perfect fit for you! Opportunity Highlights Schedule: Friday 5pm-7am, Saturday 7am-7am, Sunday 7am - 7am Job Setting: Hospital based Types of Cases…",
+    "longitude": -96.046745,
+    "salary_max": 426177.9
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "VISTA Staffing"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "contract_type": "contract",
+    "salary_is_predicted": "1",
+    "id": "5957264199",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 274201.3,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MTk5In0.xWc_OgnDoyPu9xl2kWTB0JYKpG1cDf9GwNknZU6oKqo",
+    "description": "Doctor of Medicine | Radiology - General/Other Location: La Jolla, CA Employer: VISTA Staffing Pay: Competitive weekly pay (inquire for details) Start Date: 2/1/2027 About the Position Are you an ED / Trauma and Emergency Imaging physician searching for your next locum tenens opportunity? This position with one of VISTA's healthcare partners in California might be the perfect fit for you! Opportunity Highlights Schedule: 5 PM to 3 AM PT; priority Friday through Sunday evenings Job Setting: Tele…",
+    "longitude": -117.252502,
+    "salary_max": 274201.3,
+    "title": "Locum Physician (MD/DO) - Radiology - General/Other in La Jolla, CA",
+    "latitude": 32.839449,
+    "created": "2026-11-07T12:38:51Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "La Jolla, San Diego County",
+      "area": [
+        "US",
+        "California",
+        "San Diego County",
+        "La Jolla"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264199?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=59C3B3653163A26764DD1BDFE442AD8CC8BA2855"
+  },
+  {
+    "longitude": -97.218254,
+    "salary_max": 216890.22,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDIxMiIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0._jY4F4Xc2DDljwToIh30-82Yy2rF7hwGteW77TYi1HQ",
+    "description": "Doctor of Medicine | Anesthesiology - General/Other Location: Oklahoma Employer: ARR Healthcare Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Take control of your schedule with an ongoing locum tenens Anesthesiology opportunity in Oklahoma. This hospital-based assignment offers competitive locum compensation, flexible scheduling, and no call requirements, making it an excellent option for anesthesiologists looking for a better schedule and improved work-l…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264212?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=350A3CEA07C358E11D49C54020759608A12B7BA3",
+    "latitude": 35.497614,
+    "created": "2026-11-07T12:38:51Z",
+    "title": "Locum Physician (MD/DO) - Anesthesiology - General/Other in Oklahoma",
+    "location": {
+      "area": [
+        "US",
+        "Oklahoma"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Oklahoma, US"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ARR Healthcare"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 216890.22,
+    "contract_time": "full_time",
+    "contract_type": "contract",
+    "id": "5957264212",
+    "salary_is_predicted": "1"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264210?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=27596DDA66E1EA82C1143BCAF0D5AE8DD96371D0",
+    "location": {
+      "area": [
+        "US",
+        "Missouri",
+        "Saint Louis County",
+        "Bridgeton"
+      ],
+      "display_name": "Bridgeton, Saint Louis County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Locum Physician (MD/DO) - Gastroenterology in Bridgeton, MO",
+    "latitude": 38.76078,
+    "created": "2026-11-07T12:38:51Z",
+    "salary_max": 326996.06,
+    "longitude": -90.41286,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MjEwIn0.1eezsd85FlgkzZKBi869-Prk-ZKZjUVEn9y4-qUmAxc",
+    "description": "Doctor of Medicine | Gastroenterology Location: Bridgeton, MO Employer: VISTA Staffing Pay: Competitive weekly pay (inquire for details) Shift Information: 4 days x 10 hours Start Date: 3/15/2027 About the Position Are you a Gastroenterology physician searching for your next locum tenens opportunity? This position with one of VISTA's healthcare partners in Missouri might be the perfect fit for you! Opportunity Highlights Schedule: Seven-day coverage blocks with approximately 8-10 hours on-site …",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 326996.06,
+    "contract_type": "contract",
+    "salary_is_predicted": "1",
+    "id": "5957264210",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "VISTA Staffing"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs"
+    }
+  },
+  {
+    "latitude": 42.108919,
+    "title": "Locum Certified Registered Nurse Anesthetist (CRNA) - Anesthesiology - General/Other in Massachusetts",
+    "created": "2026-11-07T12:38:51Z",
+    "location": {
+      "area": [
+        "US",
+        "Massachusetts"
+      ],
+      "display_name": "Massachusetts, US",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264190?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=093410A128C66DFB868C8CF06A47710B40438463",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDE5MCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.uMz5H79JpxdPSwetqNl5YPxRpTN9zOYxSoprzsqw75A",
+    "description": "Certified Registered Nurse Anesthetist | Anesthesiology - General/Other Location: Massachusetts Employer: LocumTenens.com Pay: Competitive weekly pay (inquire for details) Shift Information: 3 days x 12 hours Start Date: ASAP About the Position This Job at a Glance Job Reference Id: ORD-229031-CRNA-MA Title: CRNA Dates Needed: December - Ongoing Shift Type: Day Shift; Call Assignment Type: Inpatient Call Required: Yes Board Certification Required: Yes Job Duration: Locums About the Facility Thi…",
+    "longitude": -71.45631,
+    "salary_max": 209269.28,
+    "contract_type": "contract",
+    "salary_is_predicted": "1",
+    "id": "5957264190",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 209269.28,
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "LocumTenens.com",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    }
+  },
+  {
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ARR Healthcare"
+    },
+    "salary_is_predicted": "1",
+    "id": "5957264211",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 134870.83,
+    "description": "Certified Registered Nurse Anesthetist | Anesthesiology - General/Other Location: Wisconsin Employer: ARR Healthcare Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position Enterprise Medical Recruiting is assisting a nonprofit health system in Wisconsin with the recruitment of a Certified Registered Nurse Anesthetist (CRNA) to join its thriving anesthesia team in Stevens Point. This is an excellent opportunity to practice in a collaborative, MD-directed environmen…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MjExIn0.hKTjUKK5eKh-LB4b1CY_9Rg6ONXJqPKmez_g7vUNavc",
+    "salary_max": 134870.83,
+    "longitude": -89.77308,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wisconsin, US",
+      "area": [
+        "US",
+        "Wisconsin"
+      ]
+    },
+    "latitude": 44.391021,
+    "created": "2026-11-07T12:38:51Z",
+    "title": "Certified Registered Nurse Anesthetist (CRNA) - Anesthesiology - General/Other in Wisconsin",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264211?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=861DCC7B8684A2EA63CFECCB22838D793644ED9E"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ARR Healthcare"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 101838.95,
+    "salary_is_predicted": "1",
+    "id": "5957264209",
+    "salary_max": 101838.95,
+    "longitude": -94.437764,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MjA5In0.7mlJFrEhg8Z6GxreW3HuWmeiqKS9n28fRmPry6NcBDg",
+    "description": "Certified Registered Nurse Anesthetist | Anesthesiology - General/Other Location: Minnesota Employer: ARR Healthcare Pay: Competitive weekly pay (inquire for details) Shift Information: 16 hours Start Date: ASAP About the Position Enterprise Medical Recruiting is assisting a nonprofit health system in Duluth, Minnesota, with the recruitment of a Certified Registered Nurse Anesthetist (CRNA) to join an established, collaborative anesthesia team. This opportunity offers an excellent compensation …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264209?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=6BF1E92B23FA82AF6B7A18FCEA3C0424A6C55C30",
+    "location": {
+      "area": [
+        "US",
+        "Minnesota"
+      ],
+      "display_name": "Minnesota, US",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 45.509564,
+    "created": "2026-11-07T12:38:51Z",
+    "title": "Certified Registered Nurse Anesthetist (CRNA) - Anesthesiology - General/Other in Minnesota"
+  },
+  {
+    "longitude": -112.003847,
+    "salary_max": 411140.8,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2NDIwNSIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.LieKdPXRHIB2DqNL236lZHZq9QQUvAJfa99jvKiMPW4",
+    "description": "Doctor of Medicine | Urology Location: Cottonwood, AZ Employer: VISTA Staffing Pay: Competitive weekly pay (inquire for details) Start Date: 11/21/2026 About the Position Are you a Urology physician searching for your next locum tenens opportunity? This position with one of VISTA's healthcare partners in Arizona might be the perfect fit for you! Opportunity Highlights Schedule: 24-hour call coverage Job Setting: Hospital Types of Cases: Required Procedures: Ureteroscopy, laser lithotripsy, TURP…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264205?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=57407FF4248413944F5DA0E92C6257353F31CBF3",
+    "created": "2026-11-07T12:38:51Z",
+    "title": "Locum Physician (MD/DO) - Urology in Cottonwood, AZ",
+    "latitude": 34.718584,
+    "location": {
+      "display_name": "Cottonwood, Yavapai County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Arizona",
+        "Yavapai County",
+        "Cottonwood"
+      ]
+    },
+    "company": {
+      "display_name": "VISTA Staffing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 411140.8,
+    "contract_type": "contract",
+    "id": "5957264205",
+    "salary_is_predicted": "1"
+  },
+  {
+    "created": "2026-11-07T12:38:51Z",
+    "title": "Physician (MD/DO) - Infectious Disease in Connecticut",
+    "latitude": 41.601859,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Connecticut, US",
+      "area": [
+        "US",
+        "Connecticut"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5957264196?se=4Fl3I9Xa8RGMj86c16zqBQ&utm_medium=api&utm_source=abfa41a4&v=89A003C0CF2F11F1C4119B2E314D1B28DF7799AA",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjY0MTk2In0.U_vqcFadbhuNMD8_3rfY9FnuurnQJ9bg57qmLClvSW0",
+    "description": "Doctor of Medicine | Infectious Disease Location: Connecticut Employer: ARR Healthcare Pay: Competitive weekly pay (inquire for details) Start Date: ASAP About the Position An expanding, reputable healthcare organization in central Connecticut is adding an Infectious Disease Physician. It's one of the largest nonprofit health systems in the state, with more than 6000 Physicians and 500 locations. About the Opportunity: Become part of a statewide Infectious Disease program with more than 25 Infe…",
+    "longitude": -72.657316,
+    "salary_max": 187191.22,
+    "id": "5957264196",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "salary_min": 187191.22,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ARR Healthcare"
+    },
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs"
+    }
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Manufacturing Jobs",
+      "tag": "manufacturing-jobs"
+    },
+    "description": "Job ID: 529717 Non-Exempt Oldcastle, a CRH company, is reinventing what's possible in building solutions. We are the leading provider of innovative outdoor living products and utility infrastructure solutions for the water, energy, and communications markets throughout North America. We're a trusted and strategic partner to engineers, contractors, distributors, specifiers, retailers, and homeowners alike as the manufacturer of precast concrete, polymer concrete, and plastic infrastructure produ…",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjYyOTA2In0.yaTUWHY23PIFSC4ImK35JDn1gq8Uc7zhaHBNSF2W3Cs",
+    "longitude": -120.081507,
+    "salary_max": 73560.4,
+    "title": "Forklift Operator",
+    "created": "2026-11-07T12:36:36Z",
+    "id": "5957262906",
+    "salary_is_predicted": "1",
+    "latitude": 36.949192,
+    "location": {
+      "display_name": "Berenda, Madera County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "California",
+        "Madera County",
+        "Berenda"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com/details/5957262906?utm_medium=api&utm_source=abfa41a4",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 73560.4
+  },
+  {
+    "salary_max": 98300.91,
+    "longitude": -83.231225,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2MjkwOCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.q569lggVUigl8NlUhzC6DLfl26QJVIPr-h0b-3jfcOI",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CRH"
+    },
+    "description": "Job ID: 529712 Eco Material Technologies, a CRH company, is North America’s leading producer and marketer of supplementary cementitious materials. The company applies innovative technologies, materials processing capabilities, and technical expertise to recover, process, and supply fly ash, natural pozzolans, and other advanced materials for concrete production. Its operations include managing coal ash from active power generation as well as recovering and processing ash from legacy storage sit…",
+    "category": {
+      "tag": "manufacturing-jobs",
+      "label": "Manufacturing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 98300.91,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5957262908?utm_medium=api&utm_source=abfa41a4",
+    "location": {
+      "area": [
+        "US",
+        "Georgia",
+        "Baldwin County",
+        "Milledgeville"
+      ],
+      "display_name": "Milledgeville, Baldwin County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-11-07T12:36:36Z",
+    "id": "5957262908",
+    "title": "Day Shift Supervisor",
+    "latitude": 33.085181,
+    "salary_is_predicted": "1"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Tell City, Perry County",
+      "area": [
+        "US",
+        "Indiana",
+        "Perry County",
+        "Tell City"
+      ]
+    },
+    "created": "2026-11-07T12:36:35Z",
+    "title": "Intern - Safety",
+    "id": "5957262886",
+    "salary_is_predicted": "1",
+    "latitude": 37.972557,
+    "salary_min": 76862.18,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5957262886?utm_medium=api&utm_source=abfa41a4",
+    "description": "Job ID: 529765 Mulzer Crushed Stone, Inc., a CRH Company, is the foremost supplier of crushed stone, sand, gravel, scrubber stone, rip-rap and ag-lime in the Ohio River Valley. Complete with seven quarries, twenty retail locations and four sand and gravel plants, Mulzer Crushed Stone, Inc. has supplied aggregate to area construction projects, large and small, since 1935. Mulzer Crushed Stone, Inc. is the Tri-State’s established leader in delivering superior quality products that provide excepti…",
+    "category": {
+      "tag": "energy-oil-gas-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Energy, Oil & Gas Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjYyODg2In0.ecqYIYcb7QLtnbLCfZQyYItN0xW2CgAkdo9zdGSYeSU",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CRH"
+    },
+    "salary_max": 76862.18,
+    "longitude": -86.74279
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/details/5957262833?utm_medium=api&utm_source=abfa41a4",
+    "salary_min": 98435.44,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "created": "2026-11-07T12:36:30Z",
+    "title": "Terminal Manager",
+    "id": "5957262833",
+    "latitude": 30.689906,
+    "location": {
+      "display_name": "Liberty Hill, Williamson County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Texas",
+        "Williamson County",
+        "Liberty Hill"
+      ]
+    },
+    "longitude": -97.928511,
+    "salary_max": 98435.44,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "description": "Job ID: 529745 Texas Materials, A CRH company, is a leading supplier of aggregates, asphalt, ready mixed concrete, and paving and construction services in Texas. Our focus is to provide quality products and reliable customer service with a safety-first mindset. We consider our employees our greatest strength and we make it our priority to invest in their development and well-being. When you work for Texas Materials, you are helping to support and build the infrastructure of Texas. The Terminal …",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2MjgzMyIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.0vypkJ-l7-5uBbpwG3jKXojygmqZDszeOFqu0Ogzr3o",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/details/5957262821?utm_medium=api&utm_source=abfa41a4",
+    "salary_min": 78205.97,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "created": "2026-11-07T12:36:29Z",
+    "title": "Class A CDL Driver",
+    "latitude": 38.82,
+    "id": "5957262821",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Antonino, Ellis County",
+      "area": [
+        "US",
+        "Kansas",
+        "Ellis County",
+        "Antonino"
+      ]
+    },
+    "longitude": -99.40866,
+    "salary_max": 78205.97,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjYyODIxIn0.zmfFFryyyG7mtzRMAh2bJKDrPhXXxiKC8Yfp26892Gg",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CRH"
+    },
+    "category": {
+      "label": "Logistics & Warehouse Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "logistics-warehouse-jobs"
+    },
+    "description": "Job ID: 529370 APAC-Kansas, Inc., Shears Construction, is a multi-million dollar heavy highway contractor that was established in 1874, and has multiple asphalt plants, ready mix plants, rock quarries and sand operations in Kansas. Shears is diversified with public, private and commercial work including paving, utility, dirt-grading and concrete flat work. Our valued employees produce quality work and products in a competitive market with safety first at all times. If you are seeking a rewardin…"
+  },
+  {
+    "salary_max": 114688.59,
+    "longitude": -84.39462,
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjYyODE5In0.hj5_KEtGYCExTzbEZkpP4hUiepgZkKGp4VqVhVmw9ww",
+    "description": "Job ID: 529404 Oldcastle, a CRH company, is reinventing what's possible in building solutions. We are the leading provider of innovative outdoor living products and utility infrastructure solutions for the water, energy, and communications markets throughout North America. We're a trusted and strategic partner to engineers, contractors, distributors, specifiers, retailers, and homeowners alike as the manufacturer of precast concrete, polymer concrete, and plastic infrastructure products. Our po…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Manufacturing Jobs",
+      "tag": "manufacturing-jobs"
+    },
+    "salary_min": 114688.59,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5957262819?utm_medium=api&utm_source=abfa41a4",
+    "location": {
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Tuxedo"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Tuxedo, Fulton County"
+    },
+    "id": "5957262819",
+    "created": "2026-11-07T12:36:29Z",
+    "title": "Regional Quality Manager",
+    "salary_is_predicted": "1",
+    "latitude": 33.93402
+  },
+  {
+    "title": "Bilingual Recruiter",
+    "created": "2026-11-07T12:36:28Z",
+    "salary_is_predicted": "1",
+    "id": "5957262803",
+    "latitude": 30.497311,
+    "location": {
+      "area": [
+        "US",
+        "Texas",
+        "Williamson County",
+        "Cedar Park"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Cedar Park, Williamson County"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5957262803?utm_medium=api&utm_source=abfa41a4",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 86429.77,
+    "category": {
+      "tag": "hr-jobs",
+      "label": "HR & Recruitment Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Job ID: 529769 Texas Materials, A CRH company, is a leading supplier of aggregates, asphalt, ready mixed concrete, and paving and construction services in Texas. Our focus is to provide quality products and reliable customer service with a safety-first mindset. We consider our employees our greatest strength and we make it our priority to invest in their development and well-being. When you work for Texas Materials, you are helping to support and build the infrastructure of Texas. Key Responsib…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjYyODAzIn0.9VaVmCvHnwZlL2qWp1Kto-LUqJkCvsr8uZ9jNiJIgIg",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CRH"
+    },
+    "longitude": -97.827557,
+    "salary_max": 86429.77
+  },
+  {
+    "salary_min": 101759.05,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5957262806?utm_medium=api&utm_source=abfa41a4",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Dunbar, Kanawha County",
+      "area": [
+        "US",
+        "West Virginia",
+        "Kanawha County",
+        "Dunbar"
+      ]
+    },
+    "created": "2026-11-07T12:36:28Z",
+    "salary_is_predicted": "1",
+    "title": "Quality Control Manager - Asphalt",
+    "id": "5957262806",
+    "latitude": 38.367603,
+    "salary_max": 101759.05,
+    "longitude": -81.740944,
+    "description": "Job ID: 529747 West Virginia Paving, Inc., a CRH company, is one of West Virginia’s premier grading and paving contractors in the state. West Virginia Paving, Inc. performs all aspects of roadway construction including grading, paving, stone, concrete and more. Privately owned and operated until joining the CRH family in 2000, West Virginia Paving, Inc. has been servicing residents of West Virginia with the foremost paving services for decades. In addition, by being a part of the CRH family, we…",
+    "category": {
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs"
+    },
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjYyODA2In0.5NHJwWqAkKbMgnwxTtArZxME5mmfsC5-ZxIKF66X7xA"
+  },
+  {
+    "location": {
+      "area": [
+        "US",
+        "Massachusetts",
+        "Bristol County",
+        "Rehoboth"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Rehoboth, Bristol County"
+    },
+    "title": "2nd Shift Maintenance Mechanic",
+    "created": "2026-11-07T12:36:28Z",
+    "latitude": 41.847437,
+    "id": "5957262799",
+    "salary_is_predicted": "1",
+    "salary_min": 158000.44,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5957262799?utm_medium=api&utm_source=abfa41a4",
+    "description": "Job ID: 529691 Oldcastle, a CRH company, is reinventing what's possible in building solutions. We are the leading provider of innovative outdoor living products and utility infrastructure solutions for the water, energy, and communications markets throughout North America. We're a trusted and strategic partner to engineers, contractors, distributors, specifiers, retailers, and homeowners alike as the manufacturer of precast concrete, polymer concrete, and plastic infrastructure products. Our po…",
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CRH"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2Mjc5OSIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.BuZSfewpx_usw3QEhe_YVbEgY1PQn_4tHENVSTJvo9c",
+    "salary_max": 158000.44,
+    "longitude": -71.254127
+  },
+  {
+    "longitude": -118.77054,
+    "salary_max": 145049.52,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs"
+    },
+    "description": "Job ID: 529721 American Rock Products., a CRH company, is a member of the CRH West Division family, values a culture of growth, development, and internal promotion. We are a dynamic, growth-oriented, national aggregate, asphalt, concrete, and construction family of companies. For over 80 years, we have worked to be the preferred source of quality rock products, concrete, asphalt paving, and construction services. We have been recognized by numerous organizations for our commitment to safety, cu…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2MjgxMSIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.hkNJIxDWC4ebPRBtcGtKnwatj1wU2NEmuEaA5vGsI0g",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5957262811?utm_medium=api&utm_source=abfa41a4",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 145049.52,
+    "created": "2026-11-07T12:36:28Z",
+    "id": "5957262811",
+    "title": "Mixer Driver",
+    "salary_is_predicted": "1",
+    "latitude": 45.64242,
+    "location": {
+      "display_name": "Pendleton, Umatilla County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Oregon",
+        "Umatilla County",
+        "Pendleton"
+      ]
+    }
+  },
+  {
+    "location": {
+      "display_name": "Winslow, Kennebec County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Maine",
+        "Kennebec County",
+        "Winslow"
+      ]
+    },
+    "title": "Lead Mechanic - Equipment",
+    "created": "2026-11-07T12:36:26Z",
+    "salary_is_predicted": "1",
+    "id": "5957262780",
+    "latitude": 44.54226,
+    "salary_min": 108159.05,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5957262780?utm_medium=api&utm_source=abfa41a4",
+    "description": "Job ID: 528621 Pike Industries, Inc., a subsidiary and integral part of CRH, is a leading Highway Contractor and the largest producer of Hot Mix Asphalt and Construction Aggregates in New England. Pike has experienced continual growth over the years and currently employs nearly 1,000 people throughout NH, ME and VT. The dedication, knowledge, and quality workmanship of our employees is what makes the company such a great success. If you’re looking for a challenging career at a company that will…",
+    "category": {
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjYyNzgwIn0.UAtMXEpkF9oG-bDteSiigjdi5QNcJJL6HJ9jgFj4Uoo",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 108159.05,
+    "longitude": -69.62838
+  },
+  {
+    "created": "2026-11-07T12:36:26Z",
+    "id": "5957262788",
+    "title": "Intern - Aggregate",
+    "latitude": 39.937524,
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Ohio",
+        "Franklin County",
+        "Valleyview"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Valleyview, Franklin County"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5957262788?utm_medium=api&utm_source=abfa41a4",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 81630.91,
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "description": "Job ID: 528668 The Shelly Company, a CRH company, is a vertically integrated supplier of aggregates, asphalt, ready mix concrete and paving services throughout the state of Ohio. Our commitment to quality drives us to use the most modern, efficient and environmentally friendly technology in our industry. The Shelly Company is known throughout the industry for innovation, quality and for our commitment to safety. Position Overview The Aggregate Intern will have the opportunity to work with a ver…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2Mjc4OCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.mCLdZ2rcJ2NC7WRS7jddcGLBzv-C7KqT9oHn4ZluSXE",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CRH"
+    },
+    "longitude": -83.042661,
+    "salary_max": 81630.91
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 68722.29,
+    "redirect_url": "https://www.adzuna.com/details/5957262774?utm_medium=api&utm_source=abfa41a4",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Ridgeland, Jasper County",
+      "area": [
+        "US",
+        "South Carolina",
+        "Jasper County",
+        "Ridgeland"
+      ]
+    },
+    "created": "2026-11-07T12:36:26Z",
+    "title": "Shop Mechanic",
+    "salary_is_predicted": "1",
+    "id": "5957262774",
+    "latitude": 32.487148,
+    "salary_max": 68722.29,
+    "longitude": -80.970653,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CRH"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2Mjc3NCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.IZgVVQAR29FXsqIcOk2lBKCOzaHndlYKarBVCG5DX0I",
+    "description": "Job ID: 528637 Cleland Site Prep, has been servicing the Low Country of South Carolina and Georgia since 1970. Our impressive team of project managers, engineers, estimators, superintendents, and foreman has the knowledge and skills to provide clients with consistent, quality work. Cleland has been instrumental in developing the Hilton Head Island and the surrounding areas. Our crews are supplied with the tools to get the job done right, whether we are clearing, demolishing, paving, or providin…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    }
+  },
+  {
+    "salary_is_predicted": "1",
+    "created": "2026-11-07T12:36:26Z",
+    "title": "Customer Service Representative",
+    "latitude": 34.089758,
+    "id": "5957262785",
+    "location": {
+      "area": [
+        "US",
+        "California",
+        "San Bernardino County",
+        "Fontana"
+      ],
+      "display_name": "Fontana, San Bernardino County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5957262785?utm_medium=api&utm_source=abfa41a4",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 83377.27,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Admin Jobs",
+      "tag": "admin-jobs"
+    },
+    "description": "Job ID: 528649 Non-Exempt Oldcastle, a CRH company, is reinventing what's possible in building solutions. We are the leading provider of innovative outdoor living products and utility infrastructure solutions for the water, energy, and communications markets throughout North America. We're a trusted and strategic partner to engineers, contractors, distributors, specifiers, retailers, and homeowners alike as the manufacturer of precast concrete, polymer concrete, and plastic infrastructure produ…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjYyNzg1In0.i_sdvzdhNjxusipcdpFRWC5rb9ne8oJuJ_djKCFs6y4",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -117.449153,
+    "salary_max": 83377.27
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/details/5957262770?utm_medium=api&utm_source=abfa41a4",
+    "salary_min": 99499.21,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5957262770",
+    "created": "2026-11-07T12:36:25Z",
+    "title": "Lead Mechanic - Equipment",
+    "latitude": 43.684562,
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Westbrook, Cumberland County",
+      "area": [
+        "US",
+        "Maine",
+        "Cumberland County",
+        "Westbrook"
+      ]
+    },
+    "longitude": -70.355894,
+    "salary_max": 99499.21,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2Mjc3MCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.m7VQ1TausKBnLMuW-tFlrZgfYttS7LPA0MlIM_o3bPU",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "description": "Job ID: 528620 Pike Industries, Inc., a subsidiary and integral part of CRH, is a leading Highway Contractor and the largest producer of Hot Mix Asphalt and Construction Aggregates in New England. Pike has experienced continual growth over the years and currently employs nearly 1,000 people throughout NH, ME and VT. The dedication, knowledge, and quality workmanship of our employees is what makes the company such a great success. If you’re looking for a challenging career at a company that will…"
+  },
+  {
+    "salary_max": 106343.38,
+    "longitude": -72.303989,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2Mjc2NSIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.WV7K4RDFUasHRZSfU_4qa5ATzR4zUewGWoTNeAETeN4",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Job ID: 528703 Oldcastle, a CRH company, is reinventing what's possible in building solutions. We are the leading provider of innovative outdoor living products and utility infrastructure solutions for the water, energy, and communications markets throughout North America. We're a trusted and strategic partner to engineers, contractors, distributors, specifiers, retailers, and homeowners alike as the manufacturer of precast concrete, polymer concrete, and plastic infrastructure products. Our po…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Logistics & Warehouse Jobs",
+      "tag": "logistics-warehouse-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 106343.38,
+    "redirect_url": "https://www.adzuna.com/details/5957262765?utm_medium=api&utm_source=abfa41a4",
+    "location": {
+      "area": [
+        "US",
+        "New Hampshire",
+        "Grafton County",
+        "West Lebanon"
+      ],
+      "display_name": "West Lebanon, Grafton County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 43.648884,
+    "created": "2026-11-07T12:36:24Z",
+    "title": "CDL A Driver",
+    "salary_is_predicted": "1",
+    "id": "5957262765"
+  },
+  {
+    "latitude": 39.937524,
+    "created": "2026-11-07T12:36:24Z",
+    "title": "Intern - Construction Management",
+    "id": "5957262758",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Ohio",
+        "Franklin County",
+        "Valleyview"
+      ],
+      "display_name": "Valleyview, Franklin County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com/details/5957262758?utm_medium=api&utm_source=abfa41a4",
+    "salary_min": 64470.26,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs"
+    },
+    "description": "Job ID: 528665 The Shelly Company, a CRH company, is a vertically integrated supplier of aggregates, asphalt, ready mix concrete and paving services throughout the state of Ohio. Our commitment to quality drives us to use the most modern, efficient and environmentally friendly technology in our industry. The Shelly Company is known throughout the industry for innovation, quality and for our commitment to safety. Position Overview A Construction Management Intern will be given the opportunity to…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2Mjc1OCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.tIJ14yHE9IlZshyWohIvZhrDNSKKnIMLt6Cyp9C1QVU",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -83.042661,
+    "salary_max": 64470.26
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 98152.53,
+    "redirect_url": "https://www.adzuna.com/details/5957262760?utm_medium=api&utm_source=abfa41a4",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Elgin, Kane County",
+      "area": [
+        "US",
+        "Illinois",
+        "Kane County",
+        "Elgin"
+      ]
+    },
+    "created": "2026-11-07T12:36:24Z",
+    "latitude": 42.040496,
+    "title": "Quality Control Technician",
+    "salary_is_predicted": "1",
+    "id": "5957262760",
+    "salary_max": 98152.53,
+    "longitude": -88.260824,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2Mjc2MCIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.vtX5ixf4b_3QAcMM9ew8FJY4gEgzk95LTCtgR0ZV7Wo",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Job ID: 528502 Non-Exempt Oldcastle, a CRH company, is reinventing what's possible in building solutions. We are the leading provider of innovative outdoor living products and utility infrastructure solutions for the water, energy, and communications markets throughout North America. We're a trusted and strategic partner to engineers, contractors, distributors, specifiers, retailers, and homeowners alike as the manufacturer of precast concrete, polymer concrete, and plastic infrastructure produ…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs"
+    }
+  },
+  {
+    "id": "5957262741",
+    "created": "2026-11-07T12:36:23Z",
+    "title": "Intern - Aggregate",
+    "latitude": 41.04052,
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Findlay, Hancock County",
+      "area": [
+        "US",
+        "Ohio",
+        "Hancock County",
+        "Findlay"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com/details/5957262741?utm_medium=api&utm_source=abfa41a4",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 79978.3,
+    "category": {
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Job ID: 528722 The Shelly Company, a CRH company, is a vertically integrated supplier of aggregates, asphalt, ready mix concrete and paving services throughout the state of Ohio. Our commitment to quality drives us to use the most modern, efficient and environmentally friendly technology in our industry. The Shelly Company is known throughout the industry for innovation, quality and for our commitment to safety. Position Overview The Aggregate Project Engineer Intern will be given the opportuni…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk1NzI2Mjc0MSIsInMiOiI0RmwzSTlYYThSR01qODZjMTZ6cUJRIn0.l9eOzp6W5OTxEiZPOW4q4xOhqoe4lZPxN6aXOfSYl4o",
+    "company": {
+      "display_name": "CRH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -83.644115,
+    "salary_max": 79978.3
+  },
+  {
+    "salary_max": 85585.26,
+    "longitude": -97.30086,
+    "description": "Job ID: 528718 Non-Exempt Oldcastle, a CRH company, is reinventing what's possible in building solutions. We are the leading provider of innovative outdoor living products and utility infrastructure solutions for the water, energy, and communications markets throughout North America. We're a trusted and strategic partner to engineers, contractors, distributors, specifiers, retailers, and homeowners alike as the manufacturer of precast concrete, polymer concrete, and plastic infrastructure produ…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CRH"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEZsM0k5WGE4UkdNajg2YzE2enFCUSIsImkiOiI1OTU3MjYyNzM4In0.bH6wQjF75Nb2jTBbXyqij-b3Bx_g2em2tzXKoqwuybM",
+    "salary_min": 85585.26,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/details/5957262738?utm_medium=api&utm_source=abfa41a4",
+    "location": {
+      "display_name": "Haltom, Tarrant County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Texas",
+        "Tarrant County",
+        "Haltom"
+      ]
+    },
+    "created": "2026-11-07T12:36:22Z",
+    "title": "Plasma Machine Operator",
+    "id": "5957262738",
+    "latitude": 32.77968,
+    "salary_is_predicted": "1"
+  }
+]
